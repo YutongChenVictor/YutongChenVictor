@@ -7,7 +7,7 @@
 
 <!-- ===== 动态打字标题 ===== -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Hi%2C+I%27m+Yutong+Chen+%F0%9F%91%8B;CS+PhD+%40+USTC+%F0%9F%8E%93;Computer+Architecture+Researcher+%F0%9F%94%AC;FPGA+%26+NIC+Design+Enthusiast+%E2%9A%A1;Hardware+Acceleration+%7C+RDMA+%7C+Interconnect;Open+to+Internships+%F0%9F%92%BC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Hi%2C+I%27m+Yutong+Chen+%F0%9F%91%8B;CS+PhD+%2726+%40+USTC+%F0%9F%8E%93;Computer+Architecture+Researcher+%F0%9F%94%AC;FPGA+%26+NIC+Design+Enthusiast+%E2%9A%A1;Hardware+Acceleration+%7C+RDMA+%7C+Interconnect;Open+to+Internships+%F0%9F%92%BC" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -27,7 +27,7 @@
 
 ## 👨‍💻 About Me
 
-> 🎓 **CS PhD** @ University of Science and Technology of China (USTC)  
+> 🎓 **CS PhD (2026 cohort)** @ USTC  
 > 🔬 Research: **Computer Architecture** — FPGA Acceleration, RDMA NIC, Heterogeneous Interconnect  
 > 📝 Published in **CCF-A** (TCAD, SIGCOMM) & **CCF-B** (ISCAS) — *First-author*  
 > ⚡ Proficient in full-stack hardware design: RTL → Simulation → FPGA Prototyping → Tape-out  
@@ -39,36 +39,22 @@
 
 <br/>
 
-<!-- ===== GitHub 统计三件套 ===== -->
+<!-- ===== GitHub 统计徽章 ===== -->
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YutongChenVictor&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=8b949e&ring_color=58a6ff" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img height="180em" src="https://github-readme-streak-stats-amber-nine.vercel.app/?user=YutongChenVictor&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9" alt="GitHub Streak" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YutongChenVictor&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-</a>
-
-</div>
+<img src="https://img.shields.io/github/followers/YutongChenVictor?label=Followers&style=for-the-badge&logo=github&color=58a6ff&labelColor=0d1117" alt="Followers" />
+<img src="https://img.shields.io/github/stars/YutongChenVictor?affiliations=OWNER&label=Stars&style=for-the-badge&logo=github&color=58a6ff&labelColor=0d1117" alt="Stars" />
+<img src="https://img.shields.io/badge/Repos-10%2B-58a6ff?style=for-the-badge&logo=github&labelColor=0d1117" alt="Repos" />
+<img src="https://img.shields.io/badge/Commits-500%2B-58a6ff?style=for-the-badge&logo=git&labelColor=0d1117" alt="Commits" />
 
 <br/>
-
-<!-- ===== GitHub 奖杯 ===== -->
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YutongChenVictor&theme=algolia&no-frame=true&no-bg=false&margin-w=6&column=7&title=Stars,Followers,Repositories,Commits,MultiLanguage,Experience,PullRequest" alt="GitHub Trophies" />
-
-</div>
-
 <br/>
 
-<!-- ===== 贡献活动图 ===== -->
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YutongChenVictor&theme=github-dark&hide_border=true&bg_color=0d1117&line=58a6ff&point=8b949e&area=true&area_color=1f6feb)
+<!-- ===== GitHub 贡献图（原生） ===== -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/58a6ff/YutongChenVictor" />
+  <img src="https://ghchart.rshah.org/58a6ff/YutongChenVictor" alt="Contribution Chart" width="85%" />
+</picture>
 
 </div>
 
