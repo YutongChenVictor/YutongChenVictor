@@ -43,7 +43,7 @@
 
 ---
 
-## 🚀 Tech Stack — **𝒪𝓃ℯ ℊ𝓊𝓎. 𝒪𝓃ℯ 𝓈𝓉𝒶𝒸𝓀. ℱ𝓇ℴ𝓂 𝒮𝒾𝓁𝒾𝒸ℴ𝓃 𝓉ℴ 𝒜ℊℯ𝓃𝓉** *(trying to)* 🤡
+## 🚀 Tech Stack — **One guy. One stack. From Silicon to Agent** *(trying to)* 🤡
 > *Every layer I touch, from transistors to transformers*
 
 <!-- ===== Silicon ===== -->
