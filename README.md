@@ -8,12 +8,6 @@
 <!-- ===== 访客计数 ===== -->
 <img src="https://komarev.com/ghpvc/?username=YutongChenVictor&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 
-<br/>
-<br/>
-
-<!-- ===== 分割线装饰 ===== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
 </div>
 
 ---
@@ -173,13 +167,6 @@
 [![Email](https://img.shields.io/badge/Email-yutongchen%40mail.ustc.edu.cn-58a6ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yutongchen@mail.ustc.edu.cn)
 [![GitHub](https://img.shields.io/badge/GitHub-YutongChenVictor-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YutongChenVictor)
 
-</div>
-
-<br/>
-
-<!-- ===== 分割线装饰 ===== -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
 ---
