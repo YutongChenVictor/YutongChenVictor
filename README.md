@@ -43,7 +43,7 @@
 
 ---
 
-## 🚀 Tech Stack — One guy. One stack. From Silicon to Agent
+## 🚀 Tech Stack — *One guy. One stack. From Silicon to Agent (trying to)* 🤡
 
 <!-- ===== Silicon ===== -->
 ### 🔩 Silicon
