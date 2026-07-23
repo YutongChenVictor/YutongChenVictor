@@ -3,7 +3,7 @@
      Theme: Tech-Cool Dark | Focus: Computer Architecture
      ============================================ -->
 
----
+*"The best way to predict the future is to invent it." — Alan Kay*
 
 ## 👨‍💻 About Me
 
@@ -197,11 +197,11 @@
 
 ---
 
-## 📄 Docs
+## 📄 Docs — NVIDIA Jetson AGX Thor
 
-- **(I) NVIDIA Jetson AGX Thor: MLC-LLM Setup & Test Cases** — *opens Sep. 2026*
-- **(II) NVIDIA Jetson AGX Thor: SGLang Setup & Test Cases** — *opens Sep. 2026*
-- **(III) NVIDIA Jetson AGX Thor: On-Device Audio Model Setup & Test Cases** — *opens Sep. 2026*
+- **(I) MLC-LLM Setup & Test Cases** — *opens Sep. 2026*
+- **(II) SGLang Setup & Test Cases** — *opens Sep. 2026*
+- **(III) On-Device Audio Model Setup & Test Cases** — *opens Sep. 2026*
 
 <br/>
 
