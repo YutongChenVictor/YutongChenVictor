@@ -73,6 +73,8 @@
 ![Verdi](https://img.shields.io/badge/Verdi-4B2753?style=flat-square&logo=synopsys&logoColor=white)
 ![Cocotb](https://img.shields.io/badge/Cocotb-3776AB?style=flat-square&logo=python&logoColor=white)
 ![iverilog](https://img.shields.io/badge/iverilog-333333?style=flat-square&logoColor=white)
+![UVM](https://img.shields.io/badge/UVM-239120?style=flat-square&logoColor=white)
+![Tcl](https://img.shields.io/badge/Tcl-007ACC?style=flat-square&logoColor=white)
 
 #### 🔩 RISC-V Cores
 ![Rocket Chip](https://img.shields.io/badge/Rocket%20Chip-8B4513?style=flat-square&logo=riscfive&logoColor=white)
@@ -134,6 +136,12 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![RISC-V GCC](https://img.shields.io/badge/RISC--V%20GCC-3E6D10?style=flat-square&logo=gnu&logoColor=white)
 ![OpenOCD](https://img.shields.io/badge/OpenOCD-005580?style=flat-square&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![Makefile](https://img.shields.io/badge/Makefile-6D00CC?style=flat-square&logo=gnu&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
 
 <br/>
 
