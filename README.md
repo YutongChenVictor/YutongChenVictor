@@ -77,13 +77,15 @@
 ![UVM](https://img.shields.io/badge/UVM-239120?style=flat-square&logoColor=white)
 ![Tcl](https://img.shields.io/badge/Tcl-007ACC?style=flat-square&logoColor=white)
 
-#### 🔩 RISC-V Cores
+#### 🔩 Processor Cores
 ![Rocket Chip](https://img.shields.io/badge/Rocket%20Chip-8B4513?style=flat-square&logo=riscfive&logoColor=white)
 ![BOOM](https://img.shields.io/badge/BOOM-Processor-3E6D10?style=flat-square&logo=riscfive&logoColor=white)
 ![PicoRV32](https://img.shields.io/badge/PicoRV32-2E8B57?style=flat-square&logo=riscfive&logoColor=white)
 ![VexRiscv](https://img.shields.io/badge/VexRiscv-228B22?style=flat-square&logo=riscfive&logoColor=white)
 ![Nuclei](https://img.shields.io/badge/Nuclei-006400?style=flat-square&logo=riscfive&logoColor=white)
 ![NEORV32](https://img.shields.io/badge/NEORV32-2E8B57?style=flat-square&logo=riscfive&logoColor=white)
+![MicroBlaze](https://img.shields.io/badge/MicroBlaze-FF1010?style=flat-square&logo=xilinx&logoColor=white)
+![ARM Cortex-A](https://img.shields.io/badge/ARM%20Cortex--A-0091BD?style=flat-square&logo=arm&logoColor=white)
 
 <!-- ===== L2: Systems & Interconnects ===== -->
 ### ⚡ Systems & Interconnects — Edge ↔ Datacenter
