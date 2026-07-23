@@ -7,8 +7,8 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **CS PhD (2026 cohort)** @ USTC
-- 🔬 Research: **Computer Architecture** — FPGA Acceleration, RDMA NIC, Heterogeneous Interconnect
+- 🎓 **CS PhD (2026 cohort)** @ USTC, researching heterogeneous interconnect, RDMA NIC, and FPGA acceleration
+- ⚡ Day-to-day I work across embedded systems and FPGA, alongside LLM agents and robotics
 - 🏗️ **Currently taping out** via *Tiny Tapeout Shuttle*
 - 🛠️ Building with: Verilog / SystemVerilog / HLS / Chisel / SpinalHDL
 - 🌏 IELTS 7.0 | International conference speaker
