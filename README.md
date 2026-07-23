@@ -119,7 +119,7 @@
 
 <div align="center">
 
-<table width="90%">
+<table>
 <tr>
 <td width="75%">🏅 Award</td>
 <td width="25%" align="center">📅 Year</td>
