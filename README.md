@@ -160,13 +160,3 @@
 
 ---
 
-## 📫 Let's Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-yutongchen%40mail.ustc.edu.cn-58a6ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yutongchen@mail.ustc.edu.cn)
-[![GitHub](https://img.shields.io/badge/GitHub-YutongChenVictor-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YutongChenVictor)
-
-</div>
-
----
