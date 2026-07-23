@@ -5,7 +5,7 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 - CS PhD (2026 cohort) @ USTC, researching heterogeneous interconnect, RDMA NIC, and FPGA acceleration. Also working with embedded systems and FPGA
 - Primarily exploring LLM agents and robotics
@@ -43,12 +43,12 @@
 
 ---
 
-## Tech Stack — One guy. One stack. From Silicon to Agent
+## 🚀 Tech Stack — One guy. One stack. From Silicon to Agent
 
 <!-- ===== Silicon ===== -->
-### Silicon
+### 🔩 Silicon
 
-#### Hardware Description Languages
+#### 🔧 Hardware Description Languages
 ![Verilog](https://img.shields.io/badge/Verilog-EF3938?style=flat-square&logoColor=white)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-007ACC?style=flat-square&logoColor=white)
 ![HLS](https://img.shields.io/badge/HLS-FF6F00?style=flat-square&logoColor=white)
@@ -56,7 +56,7 @@
 ![VHDL](https://img.shields.io/badge/VHDL-239120?style=flat-square&logoColor=white)
 ![SpinalHDL](https://img.shields.io/badge/SpinalHDL-DC322F?style=flat-square&logo=scala&logoColor=white)
 
-#### Design & Simulation Tools
+#### 🖥️ Design & Simulation Tools
 ![Vivado](https://img.shields.io/badge/Vivado-FF1010?style=flat-square&logo=xilinx&logoColor=white)
 ![Vitis](https://img.shields.io/badge/Vitis-FF1010?style=flat-square&logo=xilinx&logoColor=white)
 ![Quartus](https://img.shields.io/badge/Quartus-0071C5?style=flat-square&logo=intel&logoColor=white)
@@ -69,7 +69,7 @@
 ![UVM](https://img.shields.io/badge/UVM-239120?style=flat-square&logoColor=white)
 ![Tcl](https://img.shields.io/badge/Tcl-007ACC?style=flat-square&logoColor=white)
 
-#### Processor Cores
+#### 🔩 Processor Cores
 ![Rocket Chip](https://img.shields.io/badge/Rocket%20Chip-8B4513?style=flat-square&logo=riscfive&logoColor=white)
 ![BOOM](https://img.shields.io/badge/BOOM-Processor-3E6D10?style=flat-square&logo=riscfive&logoColor=white)
 ![PicoRV32](https://img.shields.io/badge/PicoRV32-2E8B57?style=flat-square&logo=riscfive&logoColor=white)
@@ -80,14 +80,14 @@
 ![ARM Cortex-A](https://img.shields.io/badge/ARM%20Cortex--A-0091BD?style=flat-square&logo=arm&logoColor=white)
 
 <!-- ===== L2: Systems & Interconnects ===== -->
-### Systems & Interconnects
+### ⚡ Systems & Interconnects
 
-#### Hardware Platforms — Datacenter / Server
+#### 🔌 Hardware Platforms — Datacenter / Server
 ![Xilinx Alveo / UltraScale+](https://img.shields.io/badge/Xilinx%20Alveo%20%2F%20UltraScale%2B-FF1010?style=flat-square&logo=xilinx&logoColor=white)
 ![Altera Arria](https://img.shields.io/badge/Altera%20Arria-0071C5?style=flat-square&logo=intel&logoColor=white)
 ![NVIDIA RTX / Titan / A6000 / A100](https://img.shields.io/badge/NVIDIA%20RTX%20%2F%20Titan%20%2F%20A6000%20%2F%20A100-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
-#### Hardware Platforms — Edge / Embedded
+#### ⚡ Hardware Platforms — Edge / Embedded
 ![Xilinx Zynq](https://img.shields.io/badge/Xilinx%20Zynq-FF1010?style=flat-square&logo=xilinx&logoColor=white)
 ![Altera Cyclone](https://img.shields.io/badge/Altera%20Cyclone-0071C5?style=flat-square&logo=intel&logoColor=white)
 ![Anlogic Phoenix](https://img.shields.io/badge/Anlogic%20Phoenix-00A86B?style=flat-square&logoColor=white)
@@ -99,7 +99,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![HiFive / VisionFive / LicheeRV / HPM](https://img.shields.io/badge/HiFive%20%2F%20VisionFive%20%2F%20LicheeRV%20%2F%20HPM-3E6D10?style=flat-square&logo=riscfive&logoColor=white)
 
-#### Protocols
+#### ⚡ Protocols
 ![AXI4](https://img.shields.io/badge/AXI4-Full%2FLite%2FStream-8b5cf6?style=flat-square&logo=arm&logoColor=white)
 ![CHI](https://img.shields.io/badge/CHI-8b5cf6?style=flat-square&logo=arm&logoColor=white)
 ![PCIe](https://img.shields.io/badge/PCIe-Gen3%2F4-8b5cf6?style=flat-square&logo=pci-express&logoColor=white)
@@ -115,9 +115,9 @@
 ![USB](https://img.shields.io/badge/USB-2563EB?style=flat-square&logo=usb&logoColor=white)
 
 <!-- ===== L3: AI & Software ===== -->
-### AI & Software
+### 🧠 AI & Software
 
-#### LLM & AI Systems
+#### 🔥 LLM & AI Systems
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![MLC LLM](https://img.shields.io/badge/MLC%20LLM-4CAF50?style=flat-square&logo=apache&logoColor=white)
 ![SGLang](https://img.shields.io/badge/SGLang-2196F3?style=flat-square&logo=apache&logoColor=white)
@@ -128,7 +128,7 @@
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![AI Agent](https://img.shields.io/badge/AI%20Agent-7C3AED?style=flat-square&logo=robotframework&logoColor=white)
 
-#### Languages
+#### 💻 Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -137,7 +137,7 @@
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-#### Algorithms
+#### 📐 Algorithms
 ![GEMM](https://img.shields.io/badge/GEMM-FF6F00?style=flat-square&logoColor=white)
 ![FFT](https://img.shields.io/badge/FFT-FF6F00?style=flat-square&logoColor=white)
 ![CNN](https://img.shields.io/badge/CNN-FF6F00?style=flat-square&logoColor=white)
@@ -154,7 +154,7 @@
 ![Sort](https://img.shields.io/badge/Sort-8b5cf6?style=flat-square&logoColor=white)
 ![Hash](https://img.shields.io/badge/Hash-8b5cf6?style=flat-square&logoColor=white)
 
-#### Tooling
+#### 🛠️ Tooling
 ![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -175,11 +175,11 @@
 
 ---
 
-## Honors & Awards
+## 🏆 Honors & Awards
 
 <div align="center">
 
-| Award | Year |
+| 🏅 Award | 📅 Year |
 |:---------|:-------:|
 | **National Scholarship** (国家奖学金) | 2024 |
 | China-US Maker Competition — International 1st Prize | 2023 |
