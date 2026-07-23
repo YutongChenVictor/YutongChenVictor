@@ -24,7 +24,6 @@
 > 🔬 Research: **Computer Architecture** — FPGA Acceleration, RDMA NIC, Heterogeneous Interconnect  
 > 🌏 English working proficiency | IELTS 7.0 | International conference speaker
 
-<!-- - 🔭 Currently working on: **MRNIC** — streamlined RDMA NIC for LLM training & **SDI** — software-defined cross-protocol interconnect (ASPLOS '26 under review) -->
 - 🛠️ Building with: Verilog / SystemVerilog / HLS / Chisel on Xilinx UltraScale+ & Alveo platforms
 - 📫 Reach me: **yutongchen@mail.ustc.edu.cn**
 
