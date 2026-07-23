@@ -16,7 +16,7 @@
 
 > 🎓 **CS PhD (2026 cohort)** @ USTC  
 > 🔬 Research: **Computer Architecture** — FPGA Acceleration, RDMA NIC, Heterogeneous Interconnect  
-> 🏗️ Tapeout: **Tiny Tapeout Shuttle** — first ASIC bring-up experience  
+> 🏗️ Taping out via **Tiny Tapeout Shuttle** — hands-on ASIC flow  
 > 🌏 English working proficiency | IELTS 7.0 | International conference speaker
 
 - 🛠️ Building with: Verilog / SystemVerilog / HLS / Chisel on Xilinx UltraScale+ & Alveo platforms
