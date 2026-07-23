@@ -174,52 +174,6 @@
 
 <br/>
 
-<br/>
-
----
-
-## 📦 Projects
-
-<table>
-<tr>
-<td align="center" width="50%">
-  <a href="#"><img src="image.png" width="100%" alt="Project"/></a>
-  <br/>
-  <br/>
-  <a href="#"><b>Project Name</b></a>
-  <br/>
-  One-line description of what it does
-</td>
-<td align="center" width="50%">
-  <a href="#"><img src="image.png" width="100%" alt="Project"/></a>
-  <br/>
-  <br/>
-  <a href="#"><b>Project Name</b></a>
-  <br/>
-  One-line description of what it does
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-## 🔬 Lab
-
-<table>
-<tr>
-<td align="center" width="50%">
-  <a href="#"><img src="image.png" width="100%" alt="Lab"/></a>
-</td>
-<td align="center" width="50%">
-  <a href="#"><img src="image.png" width="100%" alt="Lab"/></a>
-</td>
-</tr>
-</table>
-
-<br/>
-
 ---
 
 ## 🏆 Honors & Awards
