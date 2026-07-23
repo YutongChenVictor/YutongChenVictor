@@ -109,6 +109,7 @@
 ![OpenOCD](https://img.shields.io/badge/OpenOCD-005580?style=flat-square&logoColor=white)
 ![IAR](https://img.shields.io/badge/IAR-1D9BF0?style=flat-square&logoColor=white)
 ![Keil](https://img.shields.io/badge/Keil-7FBA00?style=flat-square&logo=arm&logoColor=white)
+![Cadence PCB](https://img.shields.io/badge/Cadence%20PCB-FF6A00?style=flat-square&logoColor=white)
 
 #### 📡 Protocols
 ![AXI4](https://img.shields.io/badge/AXI4-Full%2FLite%2FStream-8b5cf6?style=flat-square&logo=arm&logoColor=white)
