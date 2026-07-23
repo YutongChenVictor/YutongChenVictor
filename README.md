@@ -131,54 +131,6 @@
 
 ---
 
-## 📚 Selected Publications
-
-<table>
-<tr>
-<td width="50%">
-
-### 🥇 First-Author Papers
-
-**ResDDQN-FPGA**  
-*ISCAS 2025 (CCF-B)*  
-RL-based control framework for resonant DC-DC converters with residual Double DQN + FPGA μs-level inference
-
-**SDI: Software-Defined Interconnect**  
-*ASPLOS 2026 (under review)*  
-Protocol-agnostic IR + programmable pipeline for cross-protocol PCIe/AXI/CXL communication at near-line-rate
-
-</td>
-<td width="50%">
-
-### 🤝 Co-Author Papers
-
-**MAC Acceleration Architecture**  
-*TCAD (CCF-A)*  
-Coarse-grained encoding for bit-level sparsity — 1.92× normalized MAC throughput, 61% logic reduction
-
-**MRNIC: Streamlined RDMA NIC**  
-*SIGCOMM 2026 (CCF-A)*  
-Connectionless lightweight transport for LLM training — 97 Gbps FPGA peak throughput, 2.9 μs latency
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>📄 More Publications (6+ papers)</b></summary>
-<br/>
-
-| Paper | Venue | Role | Keywords |
-|-------|-------|------|----------|
-| Primary Visual Cortex Pathway Model | FPGA 2025 | Contributor | Opponent-process theory, FPGA acceleration |
-| 4× CCF B/C Papers | Various | 2nd/3rd Author | Network communication, heterogeneous interconnect |
-
-</details>
-
-<br/>
-
----
-
 ## 🏆 Honors & Awards
 
 <div align="center">
