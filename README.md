@@ -50,7 +50,7 @@
 
 ---
 
-## 🚀 Tech Stack — *trying to* go **Silicon → LLM** 🤡
+## 🚀 Tech Stack — *One guy. One stack.* **Silicon → Agent** 🤡
 
 <!-- ===== Silicon ===== -->
 ### 🔩 Silicon (Hardware)
