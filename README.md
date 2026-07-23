@@ -44,6 +44,8 @@
 ## 🚀 Tech Stack — **One guy. One stack. From Silicon to Agent** *(trying to)* 🤡
 > *"The best way to predict the future is to invent it." — Alan Kay*
 
+---
+
 <!-- ===== Silicon ===== -->
 ### 🔩 Silicon
 > *RTL design, verification, ASIC/FPGA implementation*
