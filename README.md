@@ -196,7 +196,7 @@
 
 <div align="center">
 
-📺 **[Bilibili](https://space.bilibili.com/449763912?spm_id_from=333.1007.0.0)** 　 📝 **Zhihu** *(coming soon)* 　 ▶️ **YouTube** *(coming soon)*
+📺 **[Bilibili](https://space.bilibili.com/449763912?spm_id_from=333.1007.0.0)** 　 📝 **知乎** *(待更新)* 　 ▶️ **YouTube** *(待更新)*
 
 </div>
 
