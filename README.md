@@ -89,6 +89,7 @@
 ![Xilinx Alveo / UltraScale+](https://img.shields.io/badge/Xilinx%20Alveo%20%2F%20UltraScale%2B-FF1010?style=flat-square&logo=xilinx&logoColor=white)
 ![Altera Arria](https://img.shields.io/badge/Altera%20Arria-0071C5?style=flat-square&logo=intel&logoColor=white)
 ![NVIDIA RTX / Titan / A6000 / A100](https://img.shields.io/badge/NVIDIA%20RTX%20%2F%20Titan%20%2F%20A6000%20%2F%20A100-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Vitis](https://img.shields.io/badge/Vitis-FF1010?style=flat-square&logo=xilinx&logoColor=white)
 
 #### 📟 Edge / Embedded
 ![Xilinx Zynq](https://img.shields.io/badge/Xilinx%20Zynq-FF1010?style=flat-square&logo=xilinx&logoColor=white)
@@ -102,10 +103,9 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![HiFive / VisionFive / LicheeRV / HPM](https://img.shields.io/badge/HiFive%20%2F%20VisionFive%20%2F%20LicheeRV%20%2F%20HPM-3E6D10?style=flat-square&logo=riscfive&logoColor=white)
 ![Embedded Linux](https://img.shields.io/badge/Embedded%20Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Vitis](https://img.shields.io/badge/Vitis-FF1010?style=flat-square&logo=xilinx&logoColor=white)
 ![OpenOCD](https://img.shields.io/badge/OpenOCD-005580?style=flat-square&logoColor=white)
 
-#### 🔗 Protocols
+#### Protocols
 ![AXI4](https://img.shields.io/badge/AXI4-Full%2FLite%2FStream-8b5cf6?style=flat-square&logo=arm&logoColor=white)
 ![CHI](https://img.shields.io/badge/CHI-8b5cf6?style=flat-square&logo=arm&logoColor=white)
 ![PCIe](https://img.shields.io/badge/PCIe-Gen3%2F4-8b5cf6?style=flat-square&logo=pci-express&logoColor=white)
