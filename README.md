@@ -103,9 +103,11 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![HiFive / VisionFive / LicheeRV / HPM](https://img.shields.io/badge/HiFive%20%2F%20VisionFive%20%2F%20LicheeRV%20%2F%20HPM-3E6D10?style=flat-square&logo=riscfive&logoColor=white)
 
-#### 🔧 Embedded Toolchain
+#### ⚙️ Embedded Toolchain
 ![Embedded Linux](https://img.shields.io/badge/Embedded%20Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![OpenOCD](https://img.shields.io/badge/OpenOCD-005580?style=flat-square&logoColor=white)
+![IAR](https://img.shields.io/badge/IAR-1D9BF0?style=flat-square&logoColor=white)
+![Keil](https://img.shields.io/badge/Keil-7FBA00?style=flat-square&logo=arm&logoColor=white)
 
 #### 📡 Protocols
 ![AXI4](https://img.shields.io/badge/AXI4-Full%2FLite%2FStream-8b5cf6?style=flat-square&logo=arm&logoColor=white)
