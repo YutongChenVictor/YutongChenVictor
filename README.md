@@ -109,7 +109,7 @@
 
 <!-- ===== L3: AI & Software ===== -->
 ### 🧠 AI & Software
-> *LLM inference, agent tooling, programming languages*
+> *Training, inference, agent tooling, languages, dev tooling*
 
 #### 🔥 LLM & AI Systems
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -119,17 +119,19 @@
 ![Hermes](https://img.shields.io/badge/Hermes-7C3AED?style=flat-square&logo=robotframework&logoColor=white)
 ![OpenClaw](https://img.shields.io/badge/OpenClaw-06B6D4?style=flat-square&logo=robotframework&logoColor=white)
 ![Skills](https://img.shields.io/badge/Skills-F59E0B?style=flat-square&logo=robotframework&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![AI Agent](https://img.shields.io/badge/AI%20Agent-7C3AED?style=flat-square&logo=robotframework&logoColor=white)
 
-#### 💻 Software & Languages
+#### 💻 Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+#### 🛠️ Tooling
 ![Linux](https://img.shields.io/badge/Linux%20Driver%20Dev-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![AI Agent](https://img.shields.io/badge/AI%20Agent-7C3AED?style=flat-square&logo=robotframework&logoColor=white)
 ![RISC-V GCC](https://img.shields.io/badge/RISC--V%20GCC-3E6D10?style=flat-square&logo=gnu&logoColor=white)
 ![OpenOCD](https://img.shields.io/badge/OpenOCD-005580?style=flat-square&logoColor=white)
 
