@@ -137,22 +137,12 @@
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-#### 📐 Algorithms
-![GEMM](https://img.shields.io/badge/GEMM-FF6F00?style=flat-square&logoColor=white)
-![FFT](https://img.shields.io/badge/FFT-FF6F00?style=flat-square&logoColor=white)
-![CNN](https://img.shields.io/badge/CNN-FF6F00?style=flat-square&logoColor=white)
-![Attention](https://img.shields.io/badge/Attention-FF6F00?style=flat-square&logoColor=white)
+#### 📐 AI / ML
 ![Transformer](https://img.shields.io/badge/Transformer-FF6F00?style=flat-square&logoColor=white)
-![BERT](https://img.shields.io/badge/BERT-FF6F00?style=flat-square&logoColor=white)
+![CNN / ResNet](https://img.shields.io/badge/CNN%20%2F%20ResNet-FF6F00?style=flat-square&logoColor=white)
 ![RNN / LSTM](https://img.shields.io/badge/RNN%20%2F%20LSTM-FF6F00?style=flat-square&logoColor=white)
-![ResNet](https://img.shields.io/badge/ResNet-FF6F00?style=flat-square&logoColor=white)
 ![GAN](https://img.shields.io/badge/GAN-FF6F00?style=flat-square&logoColor=white)
-![AES](https://img.shields.io/badge/AES-333333?style=flat-square&logoColor=white)
-![SHA](https://img.shields.io/badge/SHA-333333?style=flat-square&logoColor=white)
-![RSA](https://img.shields.io/badge/RSA-333333?style=flat-square&logoColor=white)
-![CRC](https://img.shields.io/badge/CRC-8b5cf6?style=flat-square&logoColor=white)
-![Sort](https://img.shields.io/badge/Sort-8b5cf6?style=flat-square&logoColor=white)
-![Hash](https://img.shields.io/badge/Hash-8b5cf6?style=flat-square&logoColor=white)
+![Diffusion](https://img.shields.io/badge/Diffusion-FF6F00?style=flat-square&logoColor=white)
 
 #### 🛠️ Tooling
 ![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
