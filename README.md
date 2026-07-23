@@ -7,10 +7,11 @@
 
 ## About Me
 
-- CS PhD (2026 cohort) @ USTC, researching heterogeneous interconnect, RDMA NIC, and FPGA acceleration
-- Day-to-day I work across embedded systems and FPGA, alongside LLM agents and robotics
+- CS PhD (2026 cohort) @ USTC, researching heterogeneous interconnect, RDMA NIC, and FPGA acceleration. Also working with embedded systems and FPGA
+- Primarily exploring LLM agents and robotics
+- Occasionally involved in financial trading systems
+- Available UTC+8, 08:00–22:00
 - Currently taping out via Tiny Tapeout Shuttle
-- Building with Verilog / SystemVerilog / HLS / Chisel / SpinalHDL
 - IELTS 7.0 | International conference speaker
 - yutongchen@mail.ustc.edu.cn
 
