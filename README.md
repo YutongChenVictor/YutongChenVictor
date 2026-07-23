@@ -267,6 +267,6 @@
   <br/>
   <img src="image/100GbE_Utilization.png" alt="100GbE Utilization" width="85%" />
   <br/>
-  <i>100GbE, RTL实现, 时钟300MHz</i>
+  <i>100GbE, RTL实现, 时钟300MHz, XCU26-VSVA1365-2L-E</i>
 </div>
 
