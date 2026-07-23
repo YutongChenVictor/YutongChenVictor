@@ -14,13 +14,12 @@
 
 ## 👨‍💻 About Me
 
-> 🎓 **CS PhD (2026 cohort)** @ USTC  
-> 🔬 Research: **Computer Architecture** — FPGA Acceleration, RDMA NIC, Heterogeneous Interconnect  
-> 🏗️ **Currently taping out** via *Tiny Tapeout Shuttle*  
-> 🌏 English working proficiency | IELTS 7.0 | International conference speaker
-
-- 🛠️ Building with: Verilog / SystemVerilog / HLS / Chisel on Xilinx UltraScale+ & Alveo platforms
-- 📫 Reach me: **yutongchen@mail.ustc.edu.cn**
+- 🎓 **CS PhD (2026 cohort)** @ USTC
+- 🔬 Research: **Computer Architecture** — FPGA Acceleration, RDMA NIC, Heterogeneous Interconnect
+- 🏗️ **Currently taping out** via *Tiny Tapeout Shuttle*
+- 🛠️ Building with: Verilog / SystemVerilog / HLS / Chisel / SpinalHDL
+- 🌏 IELTS 7.0 | International conference speaker
+- 📫 yutongchen@mail.ustc.edu.cn
 
 <br/>
 
