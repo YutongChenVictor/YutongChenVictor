@@ -210,6 +210,8 @@
 - **Trading Systems Intern (HPC)** @ Undisclosed — Remote
 - **Robotics Intern** @ Roboparty — Onsite
 
+*Looking for interesting companies to work with next.*
+
 <br/>
 
 ---
