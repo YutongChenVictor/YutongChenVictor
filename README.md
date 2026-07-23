@@ -259,9 +259,14 @@
 
 ## 📓 Lab Notes
 
+#### 100GbE Ethernet MAC/PCS — RTL Implementation
+
 <div align="center">
   <img src="image/100GbE_timing.png" alt="100GbE Timing" width="85%" />
   <br/>
-  <i>100GbE, RTL实现，时钟300MHz</i>
+  <br/>
+  <img src="image/100GbE_Utilization.png" alt="100GbE Utilization" width="85%" />
+  <br/>
+  <i>100GbE, RTL实现, 时钟300MHz</i>
 </div>
 
