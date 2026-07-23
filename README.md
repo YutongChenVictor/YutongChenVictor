@@ -62,6 +62,7 @@
 ![HLS](https://img.shields.io/badge/HLS-FF6F00?style=flat-square&logoColor=white)
 ![Chisel](https://img.shields.io/badge/Chisel-F7DF1E?style=flat-square&logoColor=black)
 ![VHDL](https://img.shields.io/badge/VHDL-239120?style=flat-square&logoColor=white)
+![SpinalHDL](https://img.shields.io/badge/SpinalHDL-DC322F?style=flat-square&logo=scala&logoColor=white)
 
 #### 🖥️ Design & Simulation Tools
 ![Vivado](https://img.shields.io/badge/Vivado-FF1010?style=flat-square&logo=xilinx&logoColor=white)
@@ -93,6 +94,7 @@
 ![Altera Cyclone/Arria](https://img.shields.io/badge/Altera%20Cyclone%2FArria-0071C5?style=flat-square&logo=intel&logoColor=white)
 ![Anlogic Phoenix](https://img.shields.io/badge/Anlogic%20Phoenix-00A86B?style=flat-square&logoColor=white)
 ![Jetson Thor / Nano](https://img.shields.io/badge/Jetson%20Thor%20%2F%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![NVIDIA RTX / Titan / A6000 / A100](https://img.shields.io/badge/NVIDIA%20RTX%20%2F%20Titan%20%2F%20A6000%20%2F%20A100-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![Rockchip RK3588](https://img.shields.io/badge/Rockchip%20RK3588-FF6A00?style=flat-square&logo=arm&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
@@ -128,6 +130,7 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
 #### 🛠️ Tooling
 ![Linux](https://img.shields.io/badge/Linux%20Driver%20Dev-FCC624?style=flat-square&logo=linux&logoColor=black)
