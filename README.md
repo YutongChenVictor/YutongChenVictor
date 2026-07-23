@@ -244,6 +244,6 @@
   <br/>
   <img src="image/100GbE_Utilization.png" alt="100GbE Utilization" width="85%" />
   <br/>
-  <i>Custom 100GbE MAC/PCS at **300 MHz** on XCU26-VSVA1365-2L-E, measured **99.6 Gbps** throughput. (closed source)</i>
+  <i>Custom 100GbE MAC/PCS at <b>300 MHz</b> on XCU26-VSVA1365-2L-E, measured <b>99.6 Gbps</b> throughput. (closed source)</i>
 </div>
 
