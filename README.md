@@ -10,8 +10,7 @@
 - 📈 Occasionally involved in financial trading systems & blockchain
 - 🕗 Working hours: UTC+8, 08:00–22:00
 - 🔬 Currently **TAPING OUT** via *Tiny Tapeout Shuttle*
-- 🎤 IELTS 7.0 | International conference speaker
-- 🇸🇬 Lived & worked independently in Singapore for 2 months
+- 🎤 IELTS 7.0 | International conference speaker | Lived & worked independently in the UK for 2 months
 - 📧 yutongchen@mail.ustc.edu.cn
 
 <br/>
@@ -200,10 +199,10 @@
 
 ## 💼 Internship
 
-- **iSING Lab** — Remote, FPGA Intern
-- **Metasoft** — Onsite, LLM Agent Intern
-- **Undisclosed** — Trading Systems Intern
-- **Roboparty** — Onsite, Robotics Intern
+- **FPGA Intern** @ iSING Lab — Remote
+- **LLM Agent Intern** @ Metasoft — Onsite
+- **Trading Systems Intern** @ Undisclosed
+- **Robotics Intern** @ Roboparty — Onsite
 
 <br/>
 
