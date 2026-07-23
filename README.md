@@ -97,6 +97,7 @@
 ![MLC LLM](https://img.shields.io/badge/MLC%20LLM-4CAF50?style=flat-square&logo=apache&logoColor=white)
 ![SGLang](https://img.shields.io/badge/SGLang-2196F3?style=flat-square&logo=apache&logoColor=white)
 ![TVM](https://img.shields.io/badge/TVM-0076D6?style=flat-square&logo=apache&logoColor=white)
+![Hermes](https://img.shields.io/badge/Hermes-Skills%20Harness-7C3AED?style=flat-square&logo=robotframework&logoColor=white)
 
 ### 💻 Software & Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
@@ -124,7 +125,7 @@
 | **National Scholarship** (国家奖学金) | 2024 |
 | China-US Maker Competition — International 1st Prize | 2023 |
 | "Loongson Cup" National CPU Design Competition — National 3rd Prize | 2023 |
-| Suzhou Industrial Park Scholarship (苏州工业园区奖学金) | 2024 |
+| Suzhou Industrial Park Scholarship (苏州工业园区奖学金) | 2025 |
 | National Intelligent Car Racing Competition — National 3rd Prize | 2022 |
 | Mathematical Modeling Competition — Provincial 1st Prize | 2023 |
 | USTC Academic Scholarship, First Class | 2023 |
