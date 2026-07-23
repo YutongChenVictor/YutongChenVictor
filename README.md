@@ -99,7 +99,7 @@
 ![100G Ethernet](https://img.shields.io/badge/100G%20Ethernet-8b5cf6?style=flat-square&logo=ethernet&logoColor=white)
 ![AXI4](https://img.shields.io/badge/AXI4-Full%2FLite%2FStream-8b5cf6?style=flat-square&logo=arm&logoColor=white)
 
-### 🤖 AI & LLM
+### 🔥 LLM & AI Systems
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![MLC LLM](https://img.shields.io/badge/MLC%20LLM-4CAF50?style=flat-square&logo=apache&logoColor=white)
 ![SGLang](https://img.shields.io/badge/SGLang-2196F3?style=flat-square&logo=apache&logoColor=white)
