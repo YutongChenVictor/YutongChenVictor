@@ -3,13 +3,6 @@
      Theme: Tech-Cool Dark | Focus: Computer Architecture
      ============================================ -->
 
-<div align="center">
-
-<!-- ===== 访客计数 ===== -->
-<img src="https://komarev.com/ghpvc/?username=YutongChenVictor&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
-
-</div>
-
 ---
 
 ## 👨‍💻 About Me
@@ -203,5 +196,7 @@
 
 <br/>
 
----
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=YutongChenVictor&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
