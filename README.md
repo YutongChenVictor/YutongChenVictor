@@ -53,25 +53,23 @@
 #### 🔧 Hardware Description Languages
 ![Verilog](https://img.shields.io/badge/Verilog-EF3938?style=flat-square&logoColor=white)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-007ACC?style=flat-square&logoColor=white)
-![HLS](https://img.shields.io/badge/HLS-FF6F00?style=flat-square&logoColor=white)
 ![Chisel](https://img.shields.io/badge/Chisel-F7DF1E?style=flat-square&logoColor=black)
 ![VHDL](https://img.shields.io/badge/VHDL-239120?style=flat-square&logoColor=white)
 ![SpinalHDL](https://img.shields.io/badge/SpinalHDL-DC322F?style=flat-square&logo=scala&logoColor=white)
 
-#### 🖥️ Design & Simulation Tools
+#### 🖥️ EDA & Design Flow
 ![Vivado](https://img.shields.io/badge/Vivado-FF1010?style=flat-square&logo=xilinx&logoColor=white)
-![Vitis](https://img.shields.io/badge/Vitis-FF1010?style=flat-square&logo=xilinx&logoColor=white)
 ![Quartus](https://img.shields.io/badge/Quartus-0071C5?style=flat-square&logo=intel&logoColor=white)
+![Design Compiler](https://img.shields.io/badge/Design%20Compiler-4B2753?style=flat-square&logo=synopsys&logoColor=white)
+![HLS](https://img.shields.io/badge/HLS-FF6F00?style=flat-square&logoColor=white)
 ![ModelSim](https://img.shields.io/badge/ModelSim-0078D7?style=flat-square&logoColor=white)
 ![VCS](https://img.shields.io/badge/VCS-4B2753?style=flat-square&logo=synopsys&logoColor=white)
-![Design Compiler](https://img.shields.io/badge/Design%20Compiler-4B2753?style=flat-square&logo=synopsys&logoColor=white)
+![iverilog](https://img.shields.io/badge/iverilog-333333?style=flat-square&logoColor=white)
 ![Verdi](https://img.shields.io/badge/Verdi-4B2753?style=flat-square&logo=synopsys&logoColor=white)
 ![Cocotb](https://img.shields.io/badge/Cocotb-3776AB?style=flat-square&logo=python&logoColor=white)
-![iverilog](https://img.shields.io/badge/iverilog-333333?style=flat-square&logoColor=white)
 ![UVM](https://img.shields.io/badge/UVM-239120?style=flat-square&logoColor=white)
 ![Tcl](https://img.shields.io/badge/Tcl-007ACC?style=flat-square&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![OpenOCD](https://img.shields.io/badge/OpenOCD-005580?style=flat-square&logoColor=white)
 
 #### 💎 Processor Cores
 ![Rocket Chip](https://img.shields.io/badge/Rocket%20Chip-8B4513?style=flat-square&logo=riscfive&logoColor=white)
@@ -104,6 +102,8 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![HiFive / VisionFive / LicheeRV / HPM](https://img.shields.io/badge/HiFive%20%2F%20VisionFive%20%2F%20LicheeRV%20%2F%20HPM-3E6D10?style=flat-square&logo=riscfive&logoColor=white)
 ![Embedded Linux](https://img.shields.io/badge/Embedded%20Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Vitis](https://img.shields.io/badge/Vitis-FF1010?style=flat-square&logo=xilinx&logoColor=white)
+![OpenOCD](https://img.shields.io/badge/OpenOCD-005580?style=flat-square&logoColor=white)
 
 #### 🔗 Protocols
 ![AXI4](https://img.shields.io/badge/AXI4-Full%2FLite%2FStream-8b5cf6?style=flat-square&logo=arm&logoColor=white)
