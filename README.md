@@ -10,6 +10,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 CS PhD (2026 cohort) @ USTC, researching heterogeneous interconnect, RDMA NIC, and FPGA acceleration
+- 📍 Hefei, Suzhou, Shanghai (most time)
 - 🤖 Primarily exploring LLM agents and robotics, with occasional work in embedded systems and FPGA
 - 📈 Occasionally involved in financial trading systems & blockchain
 - 🕗 Working hours: UTC+8, 08:00–22:00
