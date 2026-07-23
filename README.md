@@ -201,7 +201,7 @@
 
 - **FPGA Intern** @ iSING Lab — Remote
 - **LLM Agent Intern** @ Metasoft — Onsite
-- **Trading Systems Intern** @ Undisclosed
+- **Trading Systems Intern (LLM Agent)** — Remote & Onsite
 - **Robotics Intern** @ Roboparty — Onsite
 
 <br/>
