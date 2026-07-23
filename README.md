@@ -7,7 +7,7 @@
 
 <!-- ===== 动态打字标题 ===== -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=Hi%2C+I%27m+Yutong+Chen+%F0%9F%91%8B;CS+PhD+%2726+%40+USTC+%F0%9F%8E%93;Computer+Architecture+Researcher+%F0%9F%94%AC;FPGA+%26+NIC+Design+Enthusiast+%E2%9A%A1;Hardware+Acceleration+%7C+RDMA+%7C+Interconnect;Open+to+Internships+%F0%9F%92%BC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=Hi%2C+I%27m+Yutong+Chen+%F0%9F%91%8B;CS+PhD+%2726+%40+USTC+%F0%9F%8E%93;Computer+Architecture+Researcher+%F0%9F%94%AC;FPGA+%26+NIC+Design+Enthusiast+%E2%9A%A1;Hardware+Acceleration+%7C+RDMA+%7C+Interconnect;Open+to+Internships+%F0%9F%92%BC" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -29,11 +29,11 @@
 
 > 🎓 **CS PhD (2026 cohort)** @ USTC  
 > 🔬 Research: **Computer Architecture** — FPGA Acceleration, RDMA NIC, Heterogeneous Interconnect  
-> 📝 Published in **CCF-A** (TCAD, SIGCOMM) & **CCF-B** (ISCAS) — *First-author*  
-> ⚡ Proficient in full-stack hardware design: RTL → Simulation → FPGA Prototyping → Tape-out  
+<!-- > 📝 Published in **CCF-A** (TCAD, SIGCOMM) & **CCF-B** (ISCAS) — *First-author*   -->
+<!-- > ⚡ Proficient in full-stack hardware design: RTL → Simulation → FPGA Prototyping → Tape-out   -->
 > 🌏 English working proficiency | IELTS 7.0 | International conference speaker
 
-- 🔭 Currently working on: **MRNIC** — streamlined RDMA NIC for LLM training & **SDI** — software-defined cross-protocol interconnect (ASPLOS '26 under review)
+<!-- - 🔭 Currently working on: **MRNIC** — streamlined RDMA NIC for LLM training & **SDI** — software-defined cross-protocol interconnect (ASPLOS '26 under review) -->
 - 🛠️ Building with: Verilog / SystemVerilog / HLS / Chisel on Xilinx UltraScale+ & Alveo platforms
 - 📫 Reach me: **yutongchen@mail.ustc.edu.cn**
 
@@ -88,6 +88,8 @@
 ![Zynq MPSoC](https://img.shields.io/badge/Zynq%20UltraScale%2B%20MPSoC-FF1010?style=flat-square&logo=xilinx&logoColor=white)
 ![Altera Cyclone](https://img.shields.io/badge/Altera%20Cyclone%2FArria-0071C5?style=flat-square&logo=intel&logoColor=white)
 ![Anlogic PH1P35](https://img.shields.io/badge/Anlogic%20PH1P35-00A86B?style=flat-square&logoColor=white)
+![Jetson Thor](https://img.shields.io/badge/Jetson%20Thor-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
 ### ⚡ Protocols & Architectures
 ![RDMA](https://img.shields.io/badge/RDMA-RoCEv2-8b5cf6?style=flat-square&logoColor=white)
@@ -107,6 +109,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-FF6B6B?style=flat-square&logo=googlegemini&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![AI Agent](https://img.shields.io/badge/AI%20Agent-7C3AED?style=flat-square&logo=robotframework&logoColor=white)
+![MLC LLM](https://img.shields.io/badge/MLC%20LLM-4CAF50?style=flat-square&logo=apache&logoColor=white)
+![SGLang](https://img.shields.io/badge/SGLang-2196F3?style=flat-square&logo=apache&logoColor=white)
 
 <br/>
 
@@ -164,13 +171,40 @@ Connectionless lightweight transport for LLM training — 97 Gbps FPGA peak thro
 
 <div align="center">
 
-| 🏅 Award | 📅 Year |
-|:---------|:-------:|
-| **National Scholarship** (国家奖学金) | 2024 |
-| USTC Academic Scholarship, First Class | 2023 |
-| USTC Academic Scholarship, Second Class | 2025 |
-| "Loongson Cup" National CPU Design Competition — National 3rd Prize | 2023 |
-| National Intelligent Car Racing Competition — National 3rd Prize | 2022 |
+<table width="60%">
+<tr>
+<td width="75%">🏅 Award</td>
+<td width="25%" align="center">📅 Year</td>
+</tr>
+<tr>
+<td><strong>National Scholarship</strong> (国家奖学金)</td>
+<td align="center">2024</td>
+</tr>
+<tr>
+<td>USTC Academic Scholarship, First Class</td>
+<td align="center">2023</td>
+</tr>
+<tr>
+<td>USTC Academic Scholarship, Second Class</td>
+<td align="center">2025</td>
+</tr>
+<tr>
+<td>"Loongson Cup" National CPU Design Competition — National 3rd Prize</td>
+<td align="center">2023</td>
+</tr>
+<tr>
+<td>National Intelligent Car Racing Competition — National 3rd Prize</td>
+<td align="center">2022</td>
+</tr>
+<tr>
+<td>Mathematical Modeling Competition — Provincial 1st Prize</td>
+<td align="center">2023</td>
+</tr>
+<tr>
+<td>China-US Maker Competition — International 1st Prize</td>
+<td align="center">2023</td>
+</tr>
+</table>
 
 </div>
 
