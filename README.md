@@ -89,7 +89,6 @@
 ![Xilinx Alveo / UltraScale+](https://img.shields.io/badge/Xilinx%20Alveo%20%2F%20UltraScale%2B-FF1010?style=flat-square&logo=xilinx&logoColor=white)
 ![Altera Arria](https://img.shields.io/badge/Altera%20Arria-0071C5?style=flat-square&logo=intel&logoColor=white)
 ![NVIDIA RTX / Titan / A6000 / A100](https://img.shields.io/badge/NVIDIA%20RTX%20%2F%20Titan%20%2F%20A6000%20%2F%20A100-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Vitis](https://img.shields.io/badge/Vitis-FF1010?style=flat-square&logo=xilinx&logoColor=white)
 
 #### 📟 Edge / Embedded
 ![Xilinx Zynq](https://img.shields.io/badge/Xilinx%20Zynq-FF1010?style=flat-square&logo=xilinx&logoColor=white)
@@ -106,6 +105,7 @@
 #### ⚙️ Embedded Toolchain
 ![Embedded Linux](https://img.shields.io/badge/Embedded%20Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![OpenOCD](https://img.shields.io/badge/OpenOCD-005580?style=flat-square&logoColor=white)
+![Vitis](https://img.shields.io/badge/Vitis-FF1010?style=flat-square&logo=xilinx&logoColor=white)
 ![IAR](https://img.shields.io/badge/IAR-1D9BF0?style=flat-square&logoColor=white)
 ![Keil](https://img.shields.io/badge/Keil-7FBA00?style=flat-square&logo=arm&logoColor=white)
 
@@ -155,7 +155,7 @@
 ![GAN](https://img.shields.io/badge/GAN-FF6F00?style=flat-square&logoColor=white)
 ![Diffusion](https://img.shields.io/badge/Diffusion-FF6F00?style=flat-square&logoColor=white)
 
-### 🛠️ Tools & Technologies
+### 🛠️ Tools
 ![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
