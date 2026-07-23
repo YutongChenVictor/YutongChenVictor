@@ -80,6 +80,11 @@
 ![Design Compiler](https://img.shields.io/badge/Design%20Compiler-4B2753?style=flat-square&logo=synopsys&logoColor=white)
 ![Cocotb](https://img.shields.io/badge/Cocotb-3776AB?style=flat-square&logo=python&logoColor=white)
 ![iverilog](https://img.shields.io/badge/iverilog-333333?style=flat-square&logoColor=white)
+![Rocket Chip](https://img.shields.io/badge/Rocket%20Chip-8B4513?style=flat-square&logo=riscfive&logoColor=white)
+![BOOM](https://img.shields.io/badge/BOOM-Processor-3E6D10?style=flat-square&logo=riscfive&logoColor=white)
+![PicoRV32](https://img.shields.io/badge/PicoRV32-2E8B57?style=flat-square&logo=riscfive&logoColor=white)
+![VexRiscv](https://img.shields.io/badge/VexRiscv-228B22?style=flat-square&logo=riscfive&logoColor=white)
+![Nuclei](https://img.shields.io/badge/Nuclei-006400?style=flat-square&logo=riscfive&logoColor=white)
 
 ### 🔌 Hardware Platforms
 ![Alveo AU250](https://img.shields.io/badge/Alveo%20AU250%2F280-FF1010?style=flat-square&logo=xilinx&logoColor=white)
@@ -90,6 +95,9 @@
 ![Anlogic PH1P35](https://img.shields.io/badge/Anlogic%20PH1P35-00A86B?style=flat-square&logoColor=white)
 ![Jetson Thor](https://img.shields.io/badge/Jetson%20Thor-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![SiFive HiFive](https://img.shields.io/badge/SiFive%20HiFive-3E6D10?style=flat-square&logo=riscfive&logoColor=white)
+![StarFive VisionFive](https://img.shields.io/badge/StarFive%20VisionFive-3E6D10?style=flat-square&logo=riscfive&logoColor=white)
+![Sipeed LicheeRV](https://img.shields.io/badge/Sipeed%20LicheeRV-3E6D10?style=flat-square&logo=riscfive&logoColor=white)
 
 ### ⚡ Protocols & Architectures
 ![RDMA](https://img.shields.io/badge/RDMA-RoCEv2-8b5cf6?style=flat-square&logoColor=white)
@@ -99,6 +107,7 @@
 ![AXI4](https://img.shields.io/badge/AXI4-Full%2FLite%2FStream-8b5cf6?style=flat-square&logo=arm&logoColor=white)
 ![DMA](https://img.shields.io/badge/DMA-8b5cf6?style=flat-square&logoColor=white)
 ![DDR4](https://img.shields.io/badge/DDR4-8b5cf6?style=flat-square&logoColor=white)
+![RISC-V](https://img.shields.io/badge/RISC--V-RV64GC-3E6D10?style=flat-square&logo=riscfive&logoColor=white)
 
 ### 💻 Software & Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
@@ -114,6 +123,10 @@
 ![AI Agent](https://img.shields.io/badge/AI%20Agent-7C3AED?style=flat-square&logo=robotframework&logoColor=white)
 ![MLC LLM](https://img.shields.io/badge/MLC%20LLM-4CAF50?style=flat-square&logo=apache&logoColor=white)
 ![SGLang](https://img.shields.io/badge/SGLang-2196F3?style=flat-square&logo=apache&logoColor=white)
+![RISC-V GCC](https://img.shields.io/badge/RISC--V%20GCC-3E6D10?style=flat-square&logo=gnu&logoColor=white)
+![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=flat-square&logo=qemu&logoColor=white)
+![Spike](https://img.shields.io/badge/Spike-RISC--V%20ISA%20Simulator-3E6D10?style=flat-square&logo=riscfive&logoColor=white)
+![OpenOCD](https://img.shields.io/badge/OpenOCD-005580?style=flat-square&logoColor=white)
 
 <br/>
 
