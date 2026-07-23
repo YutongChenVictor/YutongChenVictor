@@ -88,6 +88,9 @@
 ![CXL](https://img.shields.io/badge/CXL-8b5cf6?style=flat-square&logoColor=white)
 ![100G Ethernet](https://img.shields.io/badge/100G%20Ethernet-8b5cf6?style=flat-square&logo=ethernet&logoColor=white)
 ![AXI4](https://img.shields.io/badge/AXI4-Full%2FLite%2FStream-8b5cf6?style=flat-square&logo=arm&logoColor=white)
+![CCIX](https://img.shields.io/badge/CCIX-8b5cf6?style=flat-square&logoColor=white)
+![NVMe](https://img.shields.io/badge/NVMe-2563EB?style=flat-square&logoColor=white)
+![CHI](https://img.shields.io/badge/CHI-8b5cf6?style=flat-square&logo=arm&logoColor=white)
 
 ### 🔥 LLM & AI Systems
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
