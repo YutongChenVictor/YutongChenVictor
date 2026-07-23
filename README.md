@@ -98,6 +98,8 @@
 
 ![Rockchip RK3588](https://img.shields.io/badge/Rockchip%20RK3588-FF6A00?style=flat-square&logo=arm&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![HiFive / VisionFive / LicheeRV / HPM](https://img.shields.io/badge/HiFive%20%2F%20VisionFive%20%2F%20LicheeRV%20%2F%20HPM-3E6D10?style=flat-square&logo=riscfive&logoColor=white)
 
@@ -135,6 +137,7 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 #### 🛠️ Tooling
 ![Linux](https://img.shields.io/badge/Linux%20Driver%20Dev-FCC624?style=flat-square&logo=linux&logoColor=black)
