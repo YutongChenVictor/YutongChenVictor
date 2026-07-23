@@ -84,6 +84,7 @@
 ![Xilinx Alveo](https://img.shields.io/badge/Xilinx%20Alveo-FF1010?style=flat-square&logo=xilinx&logoColor=white)
 ![Xilinx UltraScale+](https://img.shields.io/badge/Xilinx%20UltraScale%2B-FF1010?style=flat-square&logo=xilinx&logoColor=white)
 ![Xilinx Zynq SoC](https://img.shields.io/badge/Xilinx%20Zynq%20SoC-FF1010?style=flat-square&logo=xilinx&logoColor=white)
+![DDR4](https://img.shields.io/badge/DDR4-8b5cf6?style=flat-square&logoColor=white)
 ![Altera Cyclone/Arria](https://img.shields.io/badge/Altera%20Cyclone%2FArria-0071C5?style=flat-square&logo=intel&logoColor=white)
 ![Anlogic Phoenix](https://img.shields.io/badge/Anlogic%20Phoenix-00A86B?style=flat-square&logoColor=white)
 ![Jetson Thor](https://img.shields.io/badge/Jetson%20Thor-76B900?style=flat-square&logo=nvidia&logoColor=white)
@@ -98,9 +99,6 @@
 ![CXL](https://img.shields.io/badge/CXL-8b5cf6?style=flat-square&logoColor=white)
 ![100G Ethernet](https://img.shields.io/badge/100G%20Ethernet-8b5cf6?style=flat-square&logo=ethernet&logoColor=white)
 ![AXI4](https://img.shields.io/badge/AXI4-Full%2FLite%2FStream-8b5cf6?style=flat-square&logo=arm&logoColor=white)
-![DMA](https://img.shields.io/badge/DMA-8b5cf6?style=flat-square&logoColor=white)
-![DDR4](https://img.shields.io/badge/DDR4-8b5cf6?style=flat-square&logoColor=white)
-![RISC-V](https://img.shields.io/badge/RISC--V-RV64GC-3E6D10?style=flat-square&logo=riscfive&logoColor=white)
 
 ### 💻 Software & Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
