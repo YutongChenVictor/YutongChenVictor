@@ -34,7 +34,7 @@
 <br/>
 <br/>
 <!-- ===== 编程语言统计 ===== -->
-<img src="https://github-readme-stats-7ilzeoj2u-yutongchenvictors-projects.vercel.app/api/top-langs?username=YutongChenVictor&layout=compact&theme=dark&title_color=58a6ff&bg_color=0d1117&text_color=c9d1d9&hide_border=true&langs_count=6" alt="Top Languages" width="45%" />
+<img src="https://github-readme-stats-theta-pink-47.vercel.app/api/top-langs?username=YutongChenVictor&layout=compact&theme=dark&title_color=58a6ff&bg_color=0d1117&text_color=c9d1d9&hide_border=true&langs_count=6" alt="Top Languages" width="45%" />
 <br/>
 
 <!-- ===== GitHub 贡献图（原生） ===== -->
