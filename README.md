@@ -192,6 +192,16 @@
 
 <br/>
 
+## 🔗 Find Me Elsewhere
+
+<div align="center">
+
+📺 **[Bilibili](https://space.bilibili.com/449763912?spm_id_from=333.1007.0.0)** 　 📝 **知乎** *(待更新)* 　 ▶️ **YouTube** *(待更新)*
+
+</div>
+
+<br/>
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=YutongChenVictor&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
