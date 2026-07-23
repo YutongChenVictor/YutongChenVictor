@@ -78,6 +78,7 @@
 ![ModelSim](https://img.shields.io/badge/ModelSim-0078D7?style=flat-square&logoColor=white)
 ![VCS](https://img.shields.io/badge/VCS-4B2753?style=flat-square&logo=synopsys&logoColor=white)
 ![Design Compiler](https://img.shields.io/badge/Design%20Compiler-4B2753?style=flat-square&logo=synopsys&logoColor=white)
+![Verdi](https://img.shields.io/badge/Verdi-4B2753?style=flat-square&logo=synopsys&logoColor=white)
 ![Cocotb](https://img.shields.io/badge/Cocotb-3776AB?style=flat-square&logo=python&logoColor=white)
 ![iverilog](https://img.shields.io/badge/iverilog-333333?style=flat-square&logoColor=white)
 ![Rocket Chip](https://img.shields.io/badge/Rocket%20Chip-8B4513?style=flat-square&logo=riscfive&logoColor=white)
