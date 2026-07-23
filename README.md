@@ -59,6 +59,7 @@
 
 #### 🖥️ EDA & Design Flow
 ![Vivado](https://img.shields.io/badge/Vivado-FF1010?style=flat-square&logo=xilinx&logoColor=white)
+![Vitis](https://img.shields.io/badge/Vitis-FF1010?style=flat-square&logo=xilinx&logoColor=white)
 ![Quartus](https://img.shields.io/badge/Quartus-0071C5?style=flat-square&logo=intel&logoColor=white)
 ![Design Compiler](https://img.shields.io/badge/Design%20Compiler-4B2753?style=flat-square&logo=synopsys&logoColor=white)
 ![HLS](https://img.shields.io/badge/HLS-FF6F00?style=flat-square&logoColor=white)
@@ -105,7 +106,6 @@
 #### ⚙️ Embedded Toolchain
 ![Embedded Linux](https://img.shields.io/badge/Embedded%20Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![OpenOCD](https://img.shields.io/badge/OpenOCD-005580?style=flat-square&logoColor=white)
-![Vitis](https://img.shields.io/badge/Vitis-FF1010?style=flat-square&logo=xilinx&logoColor=white)
 ![IAR](https://img.shields.io/badge/IAR-1D9BF0?style=flat-square&logoColor=white)
 ![Keil](https://img.shields.io/badge/Keil-7FBA00?style=flat-square&logo=arm&logoColor=white)
 
