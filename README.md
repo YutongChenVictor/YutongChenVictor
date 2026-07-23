@@ -82,6 +82,7 @@
 ![NEORV32](https://img.shields.io/badge/NEORV32-2E8B57?style=flat-square&logo=riscfive&logoColor=white)
 ![MicroBlaze](https://img.shields.io/badge/MicroBlaze-FF1010?style=flat-square&logo=xilinx&logoColor=white)
 ![ARM Cortex-A](https://img.shields.io/badge/ARM%20Cortex--A-0091BD?style=flat-square&logo=arm&logoColor=white)
+![RISC-V Softcore](https://img.shields.io/badge/RISC--V%20Softcore-3E6D10?style=flat-square&logo=riscfive&logoColor=white)
 
 <!-- ===== L2: Systems & Interconnects ===== -->
 ### ⚡ Systems & Interconnects
@@ -112,6 +113,7 @@
 ![Cadence PCB](https://img.shields.io/badge/Cadence%20PCB-FF6A00?style=flat-square&logoColor=white)
 
 #### 📡 Protocols
+![NoC](https://img.shields.io/badge/NoC-8b5cf6?style=flat-square&logoColor=white)
 ![AXI4](https://img.shields.io/badge/AXI4-Full%2FLite%2FStream-8b5cf6?style=flat-square&logo=arm&logoColor=white)
 ![CHI](https://img.shields.io/badge/CHI-8b5cf6?style=flat-square&logo=arm&logoColor=white)
 ![PCIe](https://img.shields.io/badge/PCIe-Gen3%2F4-8b5cf6?style=flat-square&logo=pci-express&logoColor=white)
@@ -257,9 +259,9 @@
 
 ---
 
-## 📓 Lab Notes
+## 📓 Scraps
 
-#### 100GbE Ethernet MAC/PCS — RTL Implementation
+#### 100GbE Ethernet MAC/PCS in Custom RTL
 
 <div align="center">
   <img src="image/100GbE_timing.png" alt="100GbE Timing" width="85%" />
@@ -267,6 +269,6 @@
   <br/>
   <img src="image/100GbE_Utilization.png" alt="100GbE Utilization" width="85%" />
   <br/>
-  <i>100GbE, RTL实现, 时钟300MHz, XCU26-VSVA1365-2L-E</i>
+  <i>Custom 100GbE MAC/PCS at 300 MHz on XCU26-VSVA1365-2L-E, measured 99.6 Gbps throughput. (closed source)</i>
 </div>
 
