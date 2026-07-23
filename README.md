@@ -3,8 +3,6 @@
      Theme: Tech-Cool Dark | Focus: Computer Architecture
      ============================================ -->
 
-*"The best way to predict the future is to invent it." — Alan Kay*
-
 ## 👨‍💻 About Me
 
 - 🎓 CS PhD (2026 cohort) @ USTC, researching heterogeneous interconnect, RDMA NIC, and FPGA acceleration
@@ -44,7 +42,7 @@
 ---
 
 ## 🚀 Tech Stack — **One guy. One stack. From Silicon to Agent** *(trying to)* 🤡
-> *Every layer I touch, from transistors to transformers*
+> *"The best way to predict the future is to invent it." — Alan Kay*
 
 <!-- ===== Silicon ===== -->
 ### 🔩 Silicon
