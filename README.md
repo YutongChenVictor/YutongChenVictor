@@ -95,7 +95,7 @@
 ![Anlogic Phoenix](https://img.shields.io/badge/Anlogic%20Phoenix-00A86B?style=flat-square&logoColor=white)
 ![Jetson Thor / Nano](https://img.shields.io/badge/Jetson%20Thor%20%2F%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![NVIDIA RTX / Titan / A6000 / A100](https://img.shields.io/badge/NVIDIA%20RTX%20%2F%20Titan%20%2F%20A6000%20%2F%20A100-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Cypress EZ-USB FX3](https://img.shields.io/badge/Cypress%20EZ--USB%20FX3-005A9C?style=flat-square&logoColor=white)
+
 ![Rockchip RK3588](https://img.shields.io/badge/Rockchip%20RK3588-FF6A00?style=flat-square&logo=arm&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
@@ -111,6 +111,9 @@
 ![NVMe](https://img.shields.io/badge/NVMe-2563EB?style=flat-square&logoColor=white)
 ![Ethernet](https://img.shields.io/badge/Ethernet-8b5cf6?style=flat-square&logo=ethernet&logoColor=white)
 ![RDMA](https://img.shields.io/badge/RDMA-RoCEv2-8b5cf6?style=flat-square&logoColor=white)
+![UART](https://img.shields.io/badge/UART-8b5cf6?style=flat-square&logoColor=white)
+![SPI](https://img.shields.io/badge/SPI-8b5cf6?style=flat-square&logoColor=white)
+![USB](https://img.shields.io/badge/USB-2563EB?style=flat-square&logo=usb&logoColor=white)
 
 <!-- ===== L3: AI & Software ===== -->
 ### 🧠 AI & Software
