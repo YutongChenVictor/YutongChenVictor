@@ -198,11 +198,10 @@
 ---
 
 ## 📄 Docs
-> *Opening 2026-09-01*
 
-- **(I) NVIDIA Jetson AGX Thor: MLC-LLM Deployment & LLM Inference Benchmarks** — *closed source*
-- **(II) NVIDIA Jetson AGX Thor: SGLang Inference Service Deployment Guide** — *closed source*
-- **(III) NVIDIA Jetson AGX Thor: On-Device Audio Model Deployment Guide** — *closed source*
+- **(I) NVIDIA Jetson AGX Thor: MLC-LLM Deployment & LLM Inference Benchmarks** — *opens Sep. 2026*
+- **(II) NVIDIA Jetson AGX Thor: SGLang Inference Service Deployment Guide** — *opens Sep. 2026*
+- **(III) NVIDIA Jetson AGX Thor: On-Device Audio Model Deployment Guide** — *opens Sep. 2026*
 
 <br/>
 
