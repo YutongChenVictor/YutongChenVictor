@@ -1,4 +1,4 @@
-<!-- ============================================
+﻿<!-- ============================================
      GitHub Profile — YutongChenVictor (陈宇童)
      Theme: Tech-Cool Dark | Focus: Computer Architecture
      ============================================ -->
@@ -32,6 +32,9 @@
 <img src="https://img.shields.io/badge/Commits-500%2B-58a6ff?style=for-the-badge&logo=git&labelColor=0d1117" alt="Commits" />
 
 <br/>
+<br/>
+<!-- ===== 编程语言统计 ===== -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=YutongChenVictor&layout=compact&theme=dark&title_color=58a6ff&bg_color=0d1117&text_color=c9d1d9&hide_border=true&langs_count=6" alt="Top Languages" width="45%" />
 <br/>
 
 <!-- ===== GitHub 贡献图（原生） ===== -->
