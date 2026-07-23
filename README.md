@@ -50,9 +50,9 @@
 
 ---
 
-## 🚀 Tech Stack — Silicon → Systems → AI
+## 🚀 Tech Stack — *trying to* go **silicon to LLM**
 
-<!-- ===== L1: Hardware ===== -->
+<!-- ===== Silicon ===== -->
 ### 🔩 Silicon (Hardware)
 > *RTL design, verification, ASIC/FPGA implementation*
 
