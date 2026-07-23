@@ -203,6 +203,7 @@
 |---|---|---|
 | **iSING Lab** | Remote | FPGA Intern |
 | **Metasoft** | Onsite | LLM Agent Intern |
+| **Undisclosed** | — | Trading Systems Intern |
 | **Roboparty** | Onsite | Robotics Intern |
 
 <br/>
