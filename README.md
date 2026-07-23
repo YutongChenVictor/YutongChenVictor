@@ -102,6 +102,7 @@
 ![PCIe](https://img.shields.io/badge/PCIe-Gen3%2F4-8b5cf6?style=flat-square&logo=pci-express&logoColor=white)
 ![CXL](https://img.shields.io/badge/CXL-8b5cf6?style=flat-square&logoColor=white)
 ![CCIX](https://img.shields.io/badge/CCIX-8b5cf6?style=flat-square&logoColor=white)
+![UCIe](https://img.shields.io/badge/UCIe-8b5cf6?style=flat-square&logoColor=white)
 ![NVMe](https://img.shields.io/badge/NVMe-2563EB?style=flat-square&logoColor=white)
 ![Ethernet](https://img.shields.io/badge/Ethernet-8b5cf6?style=flat-square&logo=ethernet&logoColor=white)
 ![RDMA](https://img.shields.io/badge/RDMA-RoCEv2-8b5cf6?style=flat-square&logoColor=white)
