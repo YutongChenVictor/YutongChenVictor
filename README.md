@@ -262,11 +262,6 @@
 <div align="center">
   <img src="image/100GbE_timing.png" alt="100GbE Timing" width="85%" />
   <br/>
-  <i>100GbE, RTL implementation, clock 300MHz</i>
-  <br/>
-  <br/>
-  <img src="image/100GbE_Utilization.png" alt="100GbE Utilization" width="85%" />
-  <br/>
-  <i>100GbE, resource utilization</i>
+  <i>100GbE, RTL实现，时钟300MHz</i>
 </div>
 
