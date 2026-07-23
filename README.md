@@ -198,10 +198,11 @@
 ---
 
 ## 📄 Docs — NVIDIA Jetson AGX Thor
+> *Same hardware, same test suite — three inference runtimes. Currently closed source (中文), opens Sep. 2026.*
 
-- **(I) MLC-LLM Setup & Test Cases** — *opens Sep. 2026*
-- **(II) SGLang Setup & Test Cases** — *opens Sep. 2026*
-- **(III) On-Device Audio Model Setup & Test Cases** — *opens Sep. 2026*
+- **(I) MLC-LLM Setup & Test Cases**
+- **(II) SGLang Setup & Test Cases**
+- **(III) On-Device Audio Model Setup & Test Cases**
 
 <br/>
 
