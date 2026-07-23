@@ -22,8 +22,6 @@
 
 > 🎓 **CS PhD (2026 cohort)** @ USTC  
 > 🔬 Research: **Computer Architecture** — FPGA Acceleration, RDMA NIC, Heterogeneous Interconnect  
-<!-- > 📝 Published in **CCF-A** (TCAD, SIGCOMM) & **CCF-B** (ISCAS) — *First-author*   -->
-<!-- > ⚡ Proficient in full-stack hardware design: RTL → Simulation → FPGA Prototyping → Tape-out   -->
 > 🌏 English working proficiency | IELTS 7.0 | International conference speaker
 <!-- - 🔭 Currently working on: **MRNIC** — streamlined RDMA NIC for LLM training & **SDI** — software-defined cross-protocol interconnect (ASPLOS '26 under review) -->
 - 🛠️ Building with: Verilog / SystemVerilog / HLS / Chisel on Xilinx UltraScale+ & Alveo platforms
@@ -84,8 +82,7 @@
 ### 🔌 Hardware Platforms
 ![Xilinx Alveo](https://img.shields.io/badge/Xilinx%20Alveo-FF1010?style=flat-square&logo=xilinx&logoColor=white)
 ![Xilinx UltraScale+](https://img.shields.io/badge/Xilinx%20UltraScale%2B-FF1010?style=flat-square&logo=xilinx&logoColor=white)
-![Zynq-7000](https://img.shields.io/badge/Zynq--7000-FF1010?style=flat-square&logo=xilinx&logoColor=white)
-![Zynq MPSoC](https://img.shields.io/badge/Zynq%20UltraScale%2B%20MPSoC-FF1010?style=flat-square&logo=xilinx&logoColor=white)
+![Xilinx Zynq SoC](https://img.shields.io/badge/Xilinx%20Zynq%20SoC-FF1010?style=flat-square&logo=xilinx&logoColor=white)
 ![Altera Cyclone/Arria](https://img.shields.io/badge/Altera%20Cyclone%2FArria-0071C5?style=flat-square&logo=intel&logoColor=white)
 ![Anlogic Phoenix](https://img.shields.io/badge/Anlogic%20Phoenix-00A86B?style=flat-square&logoColor=white)
 ![Jetson Thor](https://img.shields.io/badge/Jetson%20Thor-76B900?style=flat-square&logo=nvidia&logoColor=white)
