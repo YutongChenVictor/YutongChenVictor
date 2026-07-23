@@ -171,7 +171,7 @@ Connectionless lightweight transport for LLM training — 97 Gbps FPGA peak thro
 
 <div align="center">
 
-<table width="60%">
+<table width="80%">
 <tr>
 <td width="75%">🏅 Award</td>
 <td width="25%" align="center">📅 Year</td>
