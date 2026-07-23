@@ -79,11 +79,8 @@
 ![Xilinx Zynq SoC](https://img.shields.io/badge/Xilinx%20Zynq%20SoC-FF1010?style=flat-square&logo=xilinx&logoColor=white)
 ![Altera Cyclone/Arria](https://img.shields.io/badge/Altera%20Cyclone%2FArria-0071C5?style=flat-square&logo=intel&logoColor=white)
 ![Anlogic Phoenix](https://img.shields.io/badge/Anlogic%20Phoenix-00A86B?style=flat-square&logoColor=white)
-![Jetson Thor](https://img.shields.io/badge/Jetson%20Thor-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![SiFive HiFive](https://img.shields.io/badge/SiFive%20HiFive-3E6D10?style=flat-square&logo=riscfive&logoColor=white)
-![StarFive VisionFive](https://img.shields.io/badge/StarFive%20VisionFive-3E6D10?style=flat-square&logo=riscfive&logoColor=white)
-![Sipeed LicheeRV](https://img.shields.io/badge/Sipeed%20LicheeRV-3E6D10?style=flat-square&logo=riscfive&logoColor=white)
+![Jetson Thor / Nano](https://img.shields.io/badge/Jetson%20Thor%20%2F%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![HiFive / VisionFive / LicheeRV / HPM](https://img.shields.io/badge/HiFive%20%2F%20VisionFive%20%2F%20LicheeRV%20%2F%20HPM-3E6D10?style=flat-square&logo=riscfive&logoColor=white)
 
 ### ⚡ Protocols & Architectures
 ![RDMA](https://img.shields.io/badge/RDMA-RoCEv2-8b5cf6?style=flat-square&logoColor=white)
