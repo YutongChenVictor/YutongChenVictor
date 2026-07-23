@@ -119,7 +119,7 @@
 
 <div align="center">
 
-<table width="80%">
+<table width="90%">
 <tr>
 <td width="75%">🏅 Award</td>
 <td width="25%" align="center">📅 Year</td>
@@ -129,12 +129,8 @@
 <td align="center">2024</td>
 </tr>
 <tr>
-<td>USTC Academic Scholarship, First Class</td>
+<td>China-US Maker Competition — International 1st Prize</td>
 <td align="center">2023</td>
-</tr>
-<tr>
-<td>USTC Academic Scholarship, Second Class</td>
-<td align="center">2025</td>
 </tr>
 <tr>
 <td>"Loongson Cup" National CPU Design Competition — National 3rd Prize</td>
@@ -149,8 +145,12 @@
 <td align="center">2023</td>
 </tr>
 <tr>
-<td>China-US Maker Competition — International 1st Prize</td>
+<td>USTC Academic Scholarship, First Class</td>
 <td align="center">2023</td>
+</tr>
+<tr>
+<td>USTC Academic Scholarship, Second Class</td>
+<td align="center">2025</td>
 </tr>
 </table>
 
