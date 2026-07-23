@@ -68,6 +68,8 @@
 ![iverilog](https://img.shields.io/badge/iverilog-333333?style=flat-square&logoColor=white)
 ![UVM](https://img.shields.io/badge/UVM-239120?style=flat-square&logoColor=white)
 ![Tcl](https://img.shields.io/badge/Tcl-007ACC?style=flat-square&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![OpenOCD](https://img.shields.io/badge/OpenOCD-005580?style=flat-square&logoColor=white)
 
 #### 💎 Processor Cores
 ![Rocket Chip](https://img.shields.io/badge/Rocket%20Chip-8B4513?style=flat-square&logo=riscfive&logoColor=white)
@@ -98,6 +100,7 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![HiFive / VisionFive / LicheeRV / HPM](https://img.shields.io/badge/HiFive%20%2F%20VisionFive%20%2F%20LicheeRV%20%2F%20HPM-3E6D10?style=flat-square&logo=riscfive&logoColor=white)
+![Embedded Linux](https://img.shields.io/badge/Embedded%20Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 #### 🔗 Protocols
 ![AXI4](https://img.shields.io/badge/AXI4-Full%2FLite%2FStream-8b5cf6?style=flat-square&logo=arm&logoColor=white)
@@ -114,10 +117,19 @@
 ![SPI](https://img.shields.io/badge/SPI-8b5cf6?style=flat-square&logoColor=white)
 ![USB](https://img.shields.io/badge/USB-2563EB?style=flat-square&logo=usb&logoColor=white)
 
-<!-- ===== L3: AI & Software ===== -->
-### 🧠 AI & Software
+### 💻 Languages
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-#### 🔥 LLM & AI Systems
+<!-- ===== L3: AI & Software ===== -->
+### 🧠 AI
+
+#### 🔥 Frameworks & Infra
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![MLC LLM](https://img.shields.io/badge/MLC%20LLM-4CAF50?style=flat-square&logo=apache&logoColor=white)
 ![SGLang](https://img.shields.io/badge/SGLang-2196F3?style=flat-square&logo=apache&logoColor=white)
@@ -128,23 +140,14 @@
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![AI Agent](https://img.shields.io/badge/AI%20Agent-7C3AED?style=flat-square&logo=robotframework&logoColor=white)
 
-#### 💻 Languages
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-#### 📐 AI / ML
+#### 📐 Model Architectures
 ![Transformer](https://img.shields.io/badge/Transformer-FF6F00?style=flat-square&logoColor=white)
 ![CNN / ResNet](https://img.shields.io/badge/CNN%20%2F%20ResNet-FF6F00?style=flat-square&logoColor=white)
 ![RNN / LSTM](https://img.shields.io/badge/RNN%20%2F%20LSTM-FF6F00?style=flat-square&logoColor=white)
 ![GAN](https://img.shields.io/badge/GAN-FF6F00?style=flat-square&logoColor=white)
 ![Diffusion](https://img.shields.io/badge/Diffusion-FF6F00?style=flat-square&logoColor=white)
 
-#### 🛠️ Tooling
+#### 🛠️ Tools & Technologies
 ![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -154,11 +157,8 @@
 ![Ninja](https://img.shields.io/badge/Ninja-00B500?style=flat-square&logo=ninja&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Embedded Linux](https://img.shields.io/badge/Embedded%20Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![OpenOCD](https://img.shields.io/badge/OpenOCD-005580?style=flat-square&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/Blockchain-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
 
 <br/>
