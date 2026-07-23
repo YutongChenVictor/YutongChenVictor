@@ -11,7 +11,7 @@
 - 🤖 Primarily exploring LLM agents and robotics, with occasional work in embedded systems and FPGA
 - 📈 Occasionally involved in financial trading systems & blockchain
 - 🕗 Working hours: UTC+8, 08:00–22:00
-- 🔬 Currently taping out via Tiny Tapeout Shuttle
+- 🔬 Currently **TAPING OUT** via *Tiny Tapeout Shuttle*
 - 🎤 IELTS 7.0 | International conference speaker
 - 📧 yutongchen@mail.ustc.edu.cn
 
