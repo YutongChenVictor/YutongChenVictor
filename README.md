@@ -11,6 +11,7 @@
 - 🕗 Working hours: UTC+8, 08:00–22:00
 - 🔬 Currently **TAPING OUT** via *Tiny Tapeout Shuttle*
 - 🎤 IELTS 7.0 | International conference speaker
+- 🇸🇬 Lived & worked independently in Singapore for 2 months
 - 📧 yutongchen@mail.ustc.edu.cn
 
 <br/>
