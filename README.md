@@ -76,6 +76,7 @@
 ![PicoRV32](https://img.shields.io/badge/PicoRV32-2E8B57?style=flat-square&logo=riscfive&logoColor=white)
 ![VexRiscv](https://img.shields.io/badge/VexRiscv-228B22?style=flat-square&logo=riscfive&logoColor=white)
 ![Nuclei](https://img.shields.io/badge/Nuclei-006400?style=flat-square&logo=riscfive&logoColor=white)
+![NeoRV](https://img.shields.io/badge/NeoRV-2E8B57?style=flat-square&logo=riscfive&logoColor=white)
 
 ---
 
