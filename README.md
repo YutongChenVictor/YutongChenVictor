@@ -92,8 +92,7 @@
 > *Boards, buses, fabrics, storage, networking*
 
 #### 🔌 Hardware Platforms — Datacenter / Server
-![Xilinx Alveo](https://img.shields.io/badge/Xilinx%20Alveo-FF1010?style=flat-square&logo=xilinx&logoColor=white)
-![Xilinx UltraScale+](https://img.shields.io/badge/Xilinx%20UltraScale%2B-FF1010?style=flat-square&logo=xilinx&logoColor=white)
+![Xilinx Alveo / UltraScale+](https://img.shields.io/badge/Xilinx%20Alveo%20%2F%20UltraScale%2B-FF1010?style=flat-square&logo=xilinx&logoColor=white)
 ![Altera Arria](https://img.shields.io/badge/Altera%20Arria-0071C5?style=flat-square&logo=intel&logoColor=white)
 ![NVIDIA RTX / Titan / A6000 / A100](https://img.shields.io/badge/NVIDIA%20RTX%20%2F%20Titan%20%2F%20A6000%20%2F%20A100-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
