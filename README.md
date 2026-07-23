@@ -118,6 +118,7 @@
 ![NVMe](https://img.shields.io/badge/NVMe-2563EB?style=flat-square&logoColor=white)
 ![Ethernet](https://img.shields.io/badge/Ethernet-8b5cf6?style=flat-square&logo=ethernet&logoColor=white)
 ![RDMA](https://img.shields.io/badge/RDMA-RoCEv2-8b5cf6?style=flat-square&logoColor=white)
+![SDN / P4](https://img.shields.io/badge/SDN%20%2F%20P4-8b5cf6?style=flat-square&logo=openflow&logoColor=white)
 ![UART](https://img.shields.io/badge/UART-8b5cf6?style=flat-square&logoColor=white)
 ![SPI](https://img.shields.io/badge/SPI-8b5cf6?style=flat-square&logoColor=white)
 ![USB](https://img.shields.io/badge/USB-2563EB?style=flat-square&logo=usb&logoColor=white)
