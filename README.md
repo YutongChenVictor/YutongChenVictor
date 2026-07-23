@@ -195,6 +195,17 @@
 
 <br/>
 
+---
+
+## 📄 Docs
+> *Opening 2026-09-01*
+
+- **(I) NVIDIA Jetson AGX Thor: MLC-LLM Deployment & LLM Inference Benchmarks** — *closed source*
+- **(II) NVIDIA Jetson AGX Thor: SGLang Inference Service Deployment Guide** — *closed source*
+- **(III) NVIDIA Jetson AGX Thor: On-Device Audio Model Deployment Guide** — *closed source*
+
+<br/>
+
 ## 🔗 Find Me Elsewhere
 
 <div align="center">
@@ -223,6 +234,6 @@
   <br/>
   <img src="image/100GbE_Utilization.png" alt="100GbE Utilization" width="85%" />
   <br/>
-  <i>Custom 100GbE MAC/PCS at 300 MHz on XCU26-VSVA1365-2L-E, measured 99.6 Gbps throughput. (closed source)</i>
+  <i>Custom 100GbE MAC/PCS at **300 MHz** on XCU26-VSVA1365-2L-E, measured **99.6 Gbps** throughput. (closed source)</i>
 </div>
 
