@@ -81,14 +81,14 @@
 ![HiFive / VisionFive / LicheeRV / HPM](https://img.shields.io/badge/HiFive%20%2F%20VisionFive%20%2F%20LicheeRV%20%2F%20HPM-3E6D10?style=flat-square&logo=riscfive&logoColor=white)
 
 ### ⚡ Protocols & Architectures
-![RDMA](https://img.shields.io/badge/RDMA-RoCEv2-8b5cf6?style=flat-square&logoColor=white)
+![AXI4](https://img.shields.io/badge/AXI4-Full%2FLite%2FStream-8b5cf6?style=flat-square&logo=arm&logoColor=white)
+![CHI](https://img.shields.io/badge/CHI-8b5cf6?style=flat-square&logo=arm&logoColor=white)
 ![PCIe](https://img.shields.io/badge/PCIe-Gen3%2F4-8b5cf6?style=flat-square&logo=pci-express&logoColor=white)
 ![CXL](https://img.shields.io/badge/CXL-8b5cf6?style=flat-square&logoColor=white)
-![100G Ethernet](https://img.shields.io/badge/100G%20Ethernet-8b5cf6?style=flat-square&logo=ethernet&logoColor=white)
-![AXI4](https://img.shields.io/badge/AXI4-Full%2FLite%2FStream-8b5cf6?style=flat-square&logo=arm&logoColor=white)
 ![CCIX](https://img.shields.io/badge/CCIX-8b5cf6?style=flat-square&logoColor=white)
 ![NVMe](https://img.shields.io/badge/NVMe-2563EB?style=flat-square&logoColor=white)
-![CHI](https://img.shields.io/badge/CHI-8b5cf6?style=flat-square&logo=arm&logoColor=white)
+![Ethernet](https://img.shields.io/badge/Ethernet-8b5cf6?style=flat-square&logo=ethernet&logoColor=white)
+![RDMA](https://img.shields.io/badge/RDMA-RoCEv2-8b5cf6?style=flat-square&logoColor=white)
 
 ### 🔥 LLM & AI Systems
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
