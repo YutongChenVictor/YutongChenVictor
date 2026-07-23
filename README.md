@@ -119,40 +119,15 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td width="75%">🏅 Award</td>
-<td width="25%" align="center">📅 Year</td>
-</tr>
-<tr>
-<td><strong>National Scholarship</strong> (国家奖学金)</td>
-<td align="center">2024</td>
-</tr>
-<tr>
-<td>China-US Maker Competition — International 1st Prize</td>
-<td align="center">2023</td>
-</tr>
-<tr>
-<td>"Loongson Cup" National CPU Design Competition — National 3rd Prize</td>
-<td align="center">2023</td>
-</tr>
-<tr>
-<td>National Intelligent Car Racing Competition — National 3rd Prize</td>
-<td align="center">2022</td>
-</tr>
-<tr>
-<td>Mathematical Modeling Competition — Provincial 1st Prize</td>
-<td align="center">2023</td>
-</tr>
-<tr>
-<td>USTC Academic Scholarship, First Class</td>
-<td align="center">2023</td>
-</tr>
-<tr>
-<td>USTC Academic Scholarship, Second Class</td>
-<td align="center">2025</td>
-</tr>
-</table>
+| 🏅 Award | 📅 Year |
+|:---------|:-------:|
+| **National Scholarship** (国家奖学金) | 2024 |
+| China-US Maker Competition — International 1st Prize | 2023 |
+| "Loongson Cup" National CPU Design Competition — National 3rd Prize | 2023 |
+| National Intelligent Car Racing Competition — National 3rd Prize | 2022 |
+| Mathematical Modeling Competition — Provincial 1st Prize | 2023 |
+| USTC Academic Scholarship, First Class | 2023 |
+| USTC Academic Scholarship, Second Class | 2025 |
 
 </div>
 
