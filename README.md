@@ -5,13 +5,6 @@
 
 <div align="center">
 
-<!-- ===== 动态打字标题 ===== -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=Hi%2C+I%27m+Yutong+Chen+%F0%9F%91%8B;CS+PhD+%2726+%40+USTC+%F0%9F%8E%93;Computer+Architecture+Researcher+%F0%9F%94%AC;FPGA+%26+NIC+Design+Enthusiast+%E2%9A%A1;Hardware+Acceleration+%7C+RDMA+%7C+Interconnect;Open+to+Internships+%F0%9F%92%BC" alt="Typing SVG" />
-</a>
-
-<br/>
-
 <!-- ===== 访客计数 ===== -->
 <img src="https://komarev.com/ghpvc/?username=YutongChenVictor&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 
@@ -192,49 +185,4 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-<br/>
-
-<!-- ===== 贪吃蛇贡献动画 ===== -->
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YutongChenVictor/YutongChenVictor/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YutongChenVictor/YutongChenVictor/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/YutongChenVictor/YutongChenVictor/output/github-contribution-grid-snake.svg" width="85%">
-</picture>
-
-<br/>
-<br/>
-
-<img height="60" src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=18&duration=3500&pause=800&color=8B949E&center=true&vCenter=true&random=false&width=500&lines=Thanks+for+visiting!+%E2%9C%A8;Feel+free+to+connect+%F0%9F%A4%9D;Star+what+interests+you+%E2%AD%90" alt="Footer" />
-
-</div>
-
 ---
-
-<!-- 
-  🐍 Snake Animation Setup:
-  To enable the contribution snake, add this GitHub Action workflow
-  at .github/workflows/snake.yml in your profile repo:
-
-  name: Generate Snake
-  on:
-    schedule: [{cron: "0 0 * * *"}]
-    workflow_dispatch:
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: YutongChenVictor
-            outputs: |
-              dist/github-contribution-grid-snake.svg
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v3
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
