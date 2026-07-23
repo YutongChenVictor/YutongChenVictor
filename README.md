@@ -197,11 +197,23 @@
 
 ---
 
+## 💼 Internship
+
+| Company | Location | Role |
+|---|---|---|
+| **iSING Lab** | Remote | FPGA Intern |
+| **Metasoft** | Onsite | LLM Agent Intern |
+| **Roboparty** | Onsite | Robotics Intern |
+
+<br/>
+
+---
+
 ## 📄 Docs
 
-- **(I) MLC-LLM Setup & Test Cases on NVIDIA Jetson AGX Thor** — *中文, closed source, opens Sep. 2026*
-- **(II) SGLang Setup & Test Cases on NVIDIA Jetson AGX Thor** — *中文, closed source, opens Sep. 2026*
-- **(III) On-Device Audio Model Setup & Test Cases on NVIDIA Jetson AGX Thor** — *中文, closed source, opens Sep. 2026*
+- **(I) MLC-LLM Setup & Test Cases on NVIDIA Jetson AGX Thor** — *closed source, opens Sep. 2026*
+- **(II) SGLang Setup & Test Cases on NVIDIA Jetson AGX Thor** — *closed source, opens Sep. 2026*
+- **(III) On-Device Audio Model Setup & Test Cases on NVIDIA Jetson AGX Thor** — *closed source, opens Sep. 2026*
 
 <br/>
 
