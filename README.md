@@ -58,6 +58,7 @@
 ![SpinalHDL](https://img.shields.io/badge/SpinalHDL-DC322F?style=flat-square&logo=scala&logoColor=white)
 
 #### 🖥️ EDA & Design Flow
+![Virtuoso](https://img.shields.io/badge/Virtuoso-DC322F?style=flat-square&logo=cadence&logoColor=white)
 ![Vivado](https://img.shields.io/badge/Vivado-FF1010?style=flat-square&logo=xilinx&logoColor=white)
 ![Vitis](https://img.shields.io/badge/Vitis-FF1010?style=flat-square&logo=xilinx&logoColor=white)
 ![Quartus](https://img.shields.io/badge/Quartus-0071C5?style=flat-square&logo=intel&logoColor=white)
