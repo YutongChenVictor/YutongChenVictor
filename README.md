@@ -124,6 +124,7 @@
 | **National Scholarship** (国家奖学金) | 2024 |
 | China-US Maker Competition — International 1st Prize | 2023 |
 | "Loongson Cup" National CPU Design Competition — National 3rd Prize | 2023 |
+| Suzhou Industrial Park Scholarship (苏州工业园区奖学金) | 2024 |
 | National Intelligent Car Racing Competition — National 3rd Prize | 2022 |
 | Mathematical Modeling Competition — Provincial 1st Prize | 2023 |
 | USTC Academic Scholarship, First Class | 2023 |
