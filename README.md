@@ -147,6 +147,17 @@
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+#### 📐 Algorithms
+![GEMM](https://img.shields.io/badge/GEMM-FF6F00?style=flat-square&logoColor=white)
+![FFT](https://img.shields.io/badge/FFT-FF6F00?style=flat-square&logoColor=white)
+![DCT](https://img.shields.io/badge/DCT-FF6F00?style=flat-square&logoColor=white)
+![AES](https://img.shields.io/badge/AES-333333?style=flat-square&logoColor=white)
+![SHA](https://img.shields.io/badge/SHA-333333?style=flat-square&logoColor=white)
+![RSA](https://img.shields.io/badge/RSA-333333?style=flat-square&logoColor=white)
+![CRC](https://img.shields.io/badge/CRC-8b5cf6?style=flat-square&logoColor=white)
+![Sort](https://img.shields.io/badge/Sort-8b5cf6?style=flat-square&logoColor=white)
+![Hash](https://img.shields.io/badge/Hash-8b5cf6?style=flat-square&logoColor=white)
+
 #### 🛠️ Tooling
 ![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
