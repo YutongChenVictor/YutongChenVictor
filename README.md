@@ -200,8 +200,8 @@
 ## 📄 Docs
 
 - **(I) MLC-LLM Setup & Test Cases on NVIDIA Jetson AGX Thor** — *中文, closed source, opens Sep. 2026*
-- **(II) SGLang Setup & Test Cases** — *opens Sep. 2026*
-- **(III) On-Device Audio Model Setup & Test Cases** — *opens Sep. 2026*
+- **(II) SGLang Setup & Test Cases on NVIDIA Jetson AGX Thor** — *中文, closed source, opens Sep. 2026*
+- **(III) On-Device Audio Model Setup & Test Cases on NVIDIA Jetson AGX Thor** — *中文, closed source, opens Sep. 2026*
 
 <br/>
 
