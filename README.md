@@ -81,18 +81,13 @@
 
 ### ⚡ Platforms & Interconnects — Edge ↔ Datacenter
 #### 🔌 Hardware Platforms
-**FPGA / Server**
 ![Xilinx Alveo / UltraScale+ / Zynq](https://img.shields.io/badge/Xilinx%20Alveo%20%2F%20UltraScale%2B%20%2F%20Zynq-FF1010?style=flat-square&logo=xilinx&logoColor=white)
 ![Altera Cyclone/Arria](https://img.shields.io/badge/Altera%20Cyclone%2FArria-0071C5?style=flat-square&logo=intel&logoColor=white)
 ![Anlogic Phoenix](https://img.shields.io/badge/Anlogic%20Phoenix-00A86B?style=flat-square&logoColor=white)
-
-**Edge AI / Embedded**
 ![Jetson Thor / Nano](https://img.shields.io/badge/Jetson%20Thor%20%2F%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![Rockchip RK3588](https://img.shields.io/badge/Rockchip%20RK3588-FF6A00?style=flat-square&logo=arm&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-
-**RISC-V**
 ![HiFive / VisionFive / LicheeRV / HPM](https://img.shields.io/badge/HiFive%20%2F%20VisionFive%20%2F%20LicheeRV%20%2F%20HPM-3E6D10?style=flat-square&logo=riscfive&logoColor=white)
 
 #### ⚡ Protocols
