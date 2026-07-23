@@ -97,7 +97,9 @@
 ![MLC LLM](https://img.shields.io/badge/MLC%20LLM-4CAF50?style=flat-square&logo=apache&logoColor=white)
 ![SGLang](https://img.shields.io/badge/SGLang-2196F3?style=flat-square&logo=apache&logoColor=white)
 ![TVM](https://img.shields.io/badge/TVM-0076D6?style=flat-square&logo=apache&logoColor=white)
-![Hermes](https://img.shields.io/badge/Hermes-Skills%20Harness-7C3AED?style=flat-square&logo=robotframework&logoColor=white)
+![Hermes](https://img.shields.io/badge/Hermes-7C3AED?style=flat-square&logo=robotframework&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-06B6D4?style=flat-square&logo=robotframework&logoColor=white)
+![Skills](https://img.shields.io/badge/Skills-F59E0B?style=flat-square&logo=robotframework&logoColor=white)
 
 ### 💻 Software & Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
