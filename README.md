@@ -20,13 +20,11 @@
 
 <br/>
 
-<!-- ===== GitHub 统计徽章 ===== -->
+<!-- ===== GitHub 统计 ===== -->
 <div align="center">
 
+<img src="https://github-readme-stats-theta-pink-47.vercel.app/api?username=YutongChenVictor&show=reviews,discussions_started,discussions_answered,prs_merged&count_private=true&theme=dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&show_icons=true" alt="GitHub Stats" />
 <img src="https://img.shields.io/github/followers/YutongChenVictor?label=Followers&style=for-the-badge&logo=github&color=58a6ff&labelColor=0d1117" alt="Followers" />
-<img src="https://img.shields.io/github/stars/YutongChenVictor?affiliations=OWNER&label=Stars&style=for-the-badge&logo=github&color=58a6ff&labelColor=0d1117" alt="Stars" />
-<img src="https://img.shields.io/badge/Repos-10%2B-58a6ff?style=for-the-badge&logo=github&labelColor=0d1117" alt="Repos" />
-<img src="https://img.shields.io/badge/Commits-500%2B-58a6ff?style=for-the-badge&logo=git&labelColor=0d1117" alt="Commits" />
 
 <br/>
 <br/>
