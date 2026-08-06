@@ -218,7 +218,7 @@
 
 ## 📄 Docs
 
-- **(I) MLC-LLM Setup & Test Cases on NVIDIA Jetson AGX Thor** — *closed source, opens Sep. 2026*
+- **(I) [Deploying LLMs on Jetson AGX Thor: Qwen3-30B with MLC-LLM](https://yutongchenvictor.github.io/en/docs/jetson-mlc-llm-qwen3-deploy/)** (中文 / English)
 - **(II) SGLang Setup & Test Cases on NVIDIA Jetson AGX Thor** — *closed source, opens Sep. 2026*
 - **(III) On-Device Audio Model Setup & Test Cases on NVIDIA Jetson AGX Thor** — *closed source, opens Sep. 2026*
 
