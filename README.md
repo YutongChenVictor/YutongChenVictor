@@ -218,8 +218,8 @@
 
 ## 📄 Docs
 
-- **(I) [Deploying LLMs on Jetson AGX Thor (I): Qwen3-30B with MLC-LLM](https://yutongchenvictor.github.io/docs/jetson-deploy-1-mlc-llm/)** (中文 / English)
-- **(II) [Deploying LLMs on Jetson AGX Thor (II): Qwen2-VL & Qwen3-30B with SGLang](https://yutongchenvictor.github.io/docs/jetson-deploy-2-sglang/)** (中文 / English)
+- **(I) [Deploying LLMs on Jetson AGX Thor (Pt. 1): Qwen3-30B with MLC-LLM](https://yutongchenvictor.github.io/docs/jetson-deploy-1-mlc-llm/)** (中文 / English)
+- **(II) [Serving LLMs on Jetson AGX Thor (Pt. 2): Qwen2-VL & Qwen3-30B with SGLang](https://yutongchenvictor.github.io/docs/jetson-deploy-2-sglang/)** (中文 / English)
 - **(III) On-Device Audio Model Setup & Test Cases on NVIDIA Jetson AGX Thor** — *closed source, opens Sep. 2026*
 
 <br/>
