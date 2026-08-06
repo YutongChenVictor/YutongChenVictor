@@ -204,13 +204,7 @@
 
 ## 💼 Internship
 
-- **FPGA Intern** @ iSING Lab — Remote
-- **LLM Agent Intern** @ Metasoft — Onsite
-- **Trading Systems Intern (LLM Agent)** @ Undisclosed — Remote & Onsite
-- **Trading Systems Intern (HPC)** @ Undisclosed — Remote
-- **Robotics Intern** @ Roboparty — Onsite
-
-*Looking for interesting companies to work with next.*
+*Focusing on my PhD career — always open to chatting with interesting people.*
 
 <br/>
 
@@ -220,8 +214,6 @@
 
 - **(I) [Deploying LLMs on Jetson AGX Thor (Pt. 1): Qwen3-30B with MLC-LLM](https://yutongchenvictor.github.io/docs/jetson-deploy-1-mlc-llm/)** (中文 / English)
 - **(II) [Serving LLMs on Jetson AGX Thor (Pt. 2): Qwen2-VL & Qwen3-30B with SGLang](https://yutongchenvictor.github.io/docs/jetson-deploy-2-sglang/)** (中文 / English)
-- **(III) On-Device Audio Model Setup & Test Cases on NVIDIA Jetson AGX Thor** — *closed source, opens Sep. 2026*
-
 <br/>
 
 ## 🔗 Find Me Elsewhere
