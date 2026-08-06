@@ -204,7 +204,13 @@
 
 ## 💼 Internship
 
-*Focusing on my PhD career — always open to chatting with interesting people.*
+- **FPGA Intern** @ iSING Lab — Remote
+- **LLM Agent Intern** @ Metasoft — Onsite
+- **Trading Systems Intern (LLM Agent)** @ Undisclosed — Remote & Onsite
+- **Trading Systems Intern (HPC)** @ Undisclosed — Remote
+- **Robotics Intern** @ Roboparty — Onsite
+
+*Focused on my PhD for now — not eager for work, but always open to interesting conversations.*
 
 <br/>
 
