@@ -220,6 +220,7 @@
 
 - **(I) [Deploying LLMs on Jetson AGX Thor (Pt. 1): Qwen3-30B with MLC-LLM](https://yutongchenvictor.github.io/docs/jetson-deploy-1-mlc-llm/)** (中文 / English)
 - **(II) [Serving LLMs on Jetson AGX Thor (Pt. 2): Qwen2-VL & Qwen3-30B with SGLang](https://yutongchenvictor.github.io/docs/jetson-deploy-2-sglang/)** (中文 / English)
+- **[SpinalHDL Windows Setup](https://yutongchenvictor.github.io/en/docs/spinalhdl-windows-setup/)** (中文 / English)
 <br/>
 
 ## 🔗 Find Me Elsewhere
