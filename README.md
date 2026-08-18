@@ -210,7 +210,7 @@
 - **Trading Systems Intern (HPC)** @ Undisclosed — Remote
 - **Robotics Intern** @ Roboparty — Onsite
 
-*Focused on my PhD for now — not eager for work, but always open to interesting conversations.*
+*Currently on a break between internships — open to interesting conversations.*
 
 <br/>
 
@@ -245,6 +245,6 @@
   <br/>
   <img src="image/100GbE_Utilization.png" alt="100GbE Utilization" width="85%" />
   <br/>
-  <i>Custom 100GbE MAC/PCS at <b>300 MHz</b> on XCU26-VSVA1365-2L-E, measured <b>99.6 Gbps</b> throughput. (closed source)</i>
+  <i>Hardware UDP/IP stack at <b>322 MHz</b> over Xilinx CMAC US+ 100GbE hard MAC on XCVU13P (SN1000 SmartNIC), <b>99.6 Gbps</b> throughput. (closed source)</i>
 </div>
 
