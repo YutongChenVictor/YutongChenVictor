@@ -245,6 +245,6 @@
   <br/>
   <img src="image/100GbE_Utilization.png" alt="100GbE Utilization" width="85%" />
   <br/>
-  <i>Hardware UDP/IP stack at <b>322 MHz</b> over Xilinx CMAC US+ 100GbE hard MAC on XCVU13P (SN1000 SmartNIC), <b>99.6 Gbps</b> throughput. (closed source)</i>
+  <i style="white-space: nowrap;">Hardware UDP/IP stack at <b>322 MHz</b> over Xilinx CMAC US+ 100GbE hard MAC on XCVU13P (SN1000 SmartNIC), <b>99.6 Gbps</b> throughput. (closed source)</i>
 </div>
 
