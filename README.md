@@ -1,4 +1,4 @@
-﻿<!-- ============================================
+<!-- ============================================
      GitHub Profile — YutongChenVictor (陈宇童)
      Theme: Tech-Cool Dark | Focus: Computer Architecture
      ============================================ -->
@@ -194,7 +194,7 @@
 | National Intelligent Car Racing Competition — National 3rd Prize | 2022 |
 | Mathematical Modeling Competition — Provincial 1st Prize | 2023 |
 | USTC Academic Scholarship, First Class | 2023 |
-| USTC Academic Scholarship, Second Class | 2025 |
+| USTC Academic Scholarship, First Class | 2026 |
 
 </div>
 
